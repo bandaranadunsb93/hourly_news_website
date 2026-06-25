@@ -1,5 +1,20 @@
 [
   {
+    "name": "Daily Mirror Sri Lanka",
+    "category": "sri-lanka",
+    "url": "https://www.dailymirror.lk/index.php?format=feed&type=rss"
+  },
+  {
+    "name": "EconomyNext Sri Lanka",
+    "category": "sri-lanka",
+    "url": "https://economynext.com/feed/"
+  },
+  {
+    "name": "EconomyNext Business",
+    "category": "business",
+    "url": "https://economynext.com/feed/"
+  },
+  {
     "name": "BBC World",
     "category": "world",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
@@ -28,15 +43,5 @@
     "name": "TechCrunch",
     "category": "technology",
     "url": "https://techcrunch.com/feed/"
-  },
-  {
-    "name": "Daily Mirror Sri Lanka",
-    "category": "sri-lanka",
-    "url": "https://www.dailymirror.lk/rss.xml"
-  },
-  {
-    "name": "EconomyNext Sri Lanka",
-    "category": "business",
-    "url": "https://economynext.com/feed/"
   }
 ]
