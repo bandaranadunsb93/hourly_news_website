@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily News Hub - Hourly Updated Headlines</title>
+  <meta name="description" content="Latest Sri Lanka, world, business, sports, technology and entertainment headlines updated hourly from trusted sources." />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:title" content="Daily News Hub" />
+  <meta property="og:description" content="Hourly updated headlines from trusted news sources." />
+  <meta property="og:type" content="website" />
+  <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="#top" aria-label="Daily News Hub home">
+        <span class="brand-icon">N</span>
+        <span>
+          <strong>Daily News Hub</strong>
+          <small>Updated hourly</small>
+        </span>
+      </a>
+
+      <button class="menu-toggle" id="menuToggle" aria-label="Open menu">☰</button>
+
+      <div class="nav-links" id="navLinks">
+        <a href="#latest">Latest</a>
+        <a href="#categories">Categories</a>
+        <a href="#brief">Daily Brief</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </nav>
+
+    <section class="hero" id="top">
+      <div>
+        <p class="eyebrow">Sri Lanka • World • Business • Sports • Technology</p>
+        <h1>Latest headlines, refreshed every hour.</h1>
+        <p class="hero-text">
+          A clean news aggregator showing short summaries and source links. Click “Read full story” to visit the original publisher.
+        </p>
+        <div class="hero-actions">
+          <a class="btn primary" href="#latest">Read latest news</a>
+          <button class="btn secondary" id="refreshButton">Refresh now</button>
+        </div>
+      </div>
+
+      <aside class="hero-card">
+        <span class="status-dot"></span>
+        <p>Last updated</p>
+        <strong id="lastUpdated">Loading...</strong>
+        <small id="storyCount">Fetching headlines...</small>
+      </aside>
+    </section>
+  </header>
+
+  <main>
+    <section class="toolbar" id="categories">
+      <div class="category-tabs" id="categoryTabs" aria-label="News categories">
+        <button class="tab active" data-category="all">All</button>
+        <button class="tab" data-category="sri-lanka">Sri Lanka</button>
+        <button class="tab" data-category="world">World</button>
+        <button class="tab" data-category="business">Business</button>
+        <button class="tab" data-category="sports">Sports</button>
+        <button class="tab" data-category="technology">Technology</button>
+        <button class="tab" data-category="entertainment">Entertainment</button>
+      </div>
+
+      <label class="search-box">
+        <span>Search</span>
+        <input id="searchInput" type="search" placeholder="Search headlines..." />
+      </label>
+    </section>
+
+    <section class="content-grid">
+      <section class="news-section" id="latest">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Live feed</p>
+            <h2>Latest Headlines</h2>
+          </div>
+          <select id="sortSelect" aria-label="Sort news">
+            <option value="newest">Newest first</option>
+            <option value="source">Group by source</option>
+          </select>
+        </div>
+
+        <div class="loading" id="loadingState">Loading news...</div>
+        <div class="news-grid" id="newsGrid"></div>
+        <div class="empty-state hidden" id="emptyState">
+          <h3>No headlines found</h3>
+          <p>Try another category or search term.</p>
+        </div>
+      </section>
+
+      <aside class="sidebar">
+        <section class="widget" id="brief">
+          <p class="eyebrow">Editor section</p>
+          <h2>Today’s Simple Brief</h2>
+          <p>
+            Add your own short daily summary here. This original section helps the website become more useful than a basic RSS feed.
+          </p>
+          <ul>
+            <li>Top local headline</li>
+            <li>Important global update</li>
+            <li>Business or price movement</li>
+            <li>Sports result or fixture</li>
+          </ul>
+        </section>
+
+        <section class="widget">
+          <p class="eyebrow">Ad space</p>
+          <div class="ad-box">
+            Your ad / Google AdSense block can go here later.
+          </div>
+        </section>
+
+        <section class="widget">
+          <p class="eyebrow">Disclaimer</p>
+          <p>
+            We display headlines and short summaries from selected sources. Full articles belong to their original publishers.
+          </p>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <strong>Daily News Hub</strong>
+      <p>Hourly updated news headlines with source links.</p>
+    </div>
+    <div class="footer-links">
+      <a href="about.html">About</a>
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="disclaimer.html">Disclaimer</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </footer>
+
+  <template id="articleTemplate">
+    <article class="news-card">
+      <div class="card-meta">
+        <span class="category-pill"></span>
+        <span class="time"></span>
+      </div>
+      <h3></h3>
+      <p></p>
+      <div class="card-footer">
+        <span class="source"></span>
+        <a target="_blank" rel="noopener noreferrer">Read full story →</a>
+      </div>
+    </article>
+  </template>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

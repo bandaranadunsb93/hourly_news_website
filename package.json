@@ -1,0 +1,13 @@
+{
+  "name": "hourly-news-website",
+  "version": "1.0.0",
+  "description": "A simple hourly updating news aggregator website using RSS feeds and GitHub Actions.",
+  "type": "module",
+  "scripts": {
+    "update-news": "node scripts/fetch-news.js",
+    "start": "python3 -m http.server 8080"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "total": 6,
+  "articles": [
+    {
+      "id": "sample-1",
+      "title": "Welcome to Daily News Hub",
+      "summary": "This is sample content. After GitHub Actions runs, this file will be replaced with live RSS headlines from your selected sources.",
+      "url": "https://example.com",
+      "source": "Sample Source",
+      "category": "sri-lanka",
+      "publishedAt": "2026-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "sample-2",
+      "title": "World headlines will appear here",
+      "summary": "The website is ready to display short summaries and source links from trusted feeds.",
+      "url": "https://example.com",
+      "source": "Sample Source",
+      "category": "world",
+      "publishedAt": "2026-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "sample-3",
+      "title": "Business news category",
+      "summary": "Use feeds.json to add or remove sources for business and finance updates.",
+      "url": "https://example.com",
+      "source": "Sample Source",
+      "category": "business",
+      "publishedAt": "2026-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "sample-4",
+      "title": "Sports headlines category",
+      "summary": "Sports RSS feeds can be added to the feed list and updated hourly.",
+      "url": "https://example.com",
+      "source": "Sample Source",
+      "category": "sports",
+      "publishedAt": "2026-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "sample-5",
+      "title": "Technology headlines category",
+      "summary": "Technology updates can be shown here with links to the original publishers.",
+      "url": "https://example.com",
+      "source": "Sample Source",
+      "category": "technology",
+      "publishedAt": "2026-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "sample-6",
+      "title": "Entertainment category",
+      "summary": "Add entertainment RSS feeds in feeds.json to activate this category.",
+      "url": "https://example.com",
+      "source": "Sample Source",
+      "category": "entertainment",
+      "publishedAt": "2026-06-25T00:00:00.000Z"
+    }
+  ]
+}
