@@ -1,24 +1,69 @@
 {
-  "updatedAt": "2026-07-17T07:34:29.573Z",
-  "total": 84,
+  "updatedAt": "2026-07-17T12:01:32.267Z",
+  "total": 85,
   "articles": [
     {
-      "id": "QkJDIFdvcmxkfFRydW1wIE1lZGlhIHRvIHNlbGwgaW5zdGFudCBhY2Nlc3MgdG8gJ21hcmtldC1tb3ZpbmcnIHNvY2lhbCBwb3N0c3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jNzlndzRsajg5ZW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-07-17T07:25:31.000Z"
+      "id": "VGVjaENydW5jaHxXaHkgdGhlIGZpcnN0IEdQVSBmaW5hbmNpZXJzIGFyZSB0dXJuaW5nIHRvIGluZmVyZW5jZSBjaGlwcyBpbiBhICQ0MDAgbWlsbGlvbiBkZWFsfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNi8wNy8xNy93aHktdGhlLWZpcnN0LWdwdS1maW5hbmNpZXJzLWFyZS10dXJuaW5nLXRvLWluZmVyZW5jZS1jaGlwcy1pbi1hLTQwMC1taWxsaW9uLWRlYWwv",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "publishedAt": "2026-07-17T12:00:00.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fEhvdyBydWdieSB1bmlvbiBpcyAnYm9vbWluZycgaW4gZm9vdGJhbGwtbWFkIEFyZ2VudGluYXxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvcnVnYnktdW5pb24vYXJ0aWNsZXMvY3p4NXhwN2xlNHhvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "How rugby union is 'booming' in football-mad Argentina",
-      "summary": "Rugby union is 'booming' in football-mad Argentina, according to Pumas head coach Felipe Contepomi.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/czx5xp7le4xo?at_medium=RSS&at_campaign=rss",
+      "id": "QkJDIFdvcmxkfFRydW1wIGFsbGVnZXMgQ2hpbmEgbWVkZGxlZCBpbiAyMDIwIGVsZWN0aW9uIGFuZCBxdWVzdGlvbnMgdm90aW5nIHNlY3VyaXR5IGFoZWFkIG9mIG1pZHRlcm1zfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N4Mms5d3Z2NXd5bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-07-17T11:37:00.000Z"
+    },
+    {
+      "id": "QkJDIEJ1c2luZXNzfFRoZSBmaW5hbmNpYWwgd2lubmVycyBhbmQgbG9zZXJzIGZyb20gdGhlIFdvcmxkIEN1cHxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZ3JrZWs4bHJ6dm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "The financial winners and losers from the World Cup",
+      "summary": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "business",
+      "publishedAt": "2026-07-17T11:36:11.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxUaGUgQ2h1cmNoIG9mIEVuZ2xhbmQgaGFzIHRha2VuIGEgbG9uZy1vdmVyZHVlIHN0ZXAgb24gUGFsZXN0aW5lfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vb3BpbmlvbnMvMjAyNi83LzE3L3RoZS1jaHVyY2gtb2YtZW5nbGFuZC1oYXMtdGFrZW4tYS1sb25nLW92ZXJkdWUtc3RlcC1vbi1wYWxlc3RpbmU_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "The Church of England has taken a long-overdue step on Palestine",
+      "summary": "By agreeing to hear Palestinian Christians, the Synod has begun to confront its history and responsibilities.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/17/the-church-of-england-has-taken-a-long-overdue-step-on-palestine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T11:34:02.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxXaHkgaXMgdGhlIFVTIGF0dGFja2luZyBzb3V0aGVybiBJcmFu4oCZcyBjaXZpbGlhbiBpbmZyYXN0cnVjdHVyZT98aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8xNy93aHktaXMtdGhlLXVzLWF0dGFja2luZy1zb3V0aGVybi1pcmFucy1jaXZpbGlhbi1pbmZyYXN0cnVjdHVyZT90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
+      "summary": "Analysts say the goals range from targeting Iran's supply lines to curbing its influence in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T11:26:39.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfENoaW5hIGhpdHMgb3V0IGF0IEJyaXRpc2ggU3RlZWwgbmF0aW9uYWxpc2F0aW9ufGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NqZDRrdnhwZDNkbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "China hits out at British Steel nationalisation",
+      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-07-17T11:07:45.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFR1Y2hlbCBkaWQgbm90IGRlbGl2ZXIsIGJ1dCBoaXMgdGltZSB3aXRoIEVuZ2xhbmQgaXMgbm90IHVwIC0gU2hlYXJlcnxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvYzh4bmw5MDh5MjhvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Tuchel did not deliver, but his time with England is not up - Shearer",
+      "summary": "Former England captain Alan Shearer says Three Lions boss Thomas Tuchel will not be fazed by criticism he has faced over the World Cup semi-final defeat.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xnl908y28o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
-      "publishedAt": "2026-07-17T07:01:23.000Z"
+      "publishedAt": "2026-07-17T11:00:24.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfFVTIGxhdW5jaGVzIG5ldyBzdHJpa2VzIGFzIElyYW4gc2F5cyBjaXZpbGlhbiBpbmZyYXN0cnVjdHVyZSBoaXR8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzE1MWdkandkMTBvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -27,7 +72,214 @@
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
-      "publishedAt": "2026-07-17T07:00:31.000Z"
+      "publishedAt": "2026-07-17T10:57:50.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxKYXBhbiBwYXNzZXMgbGVnaXNsYXRpb24gYmFubmluZyB2aW9sYXRpb24gb2YgbmF0aW9uYWwgZmxhZ3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzE3L2phcGFuLXBhc3Nlcy1sZWdpc2xhdGlvbi1iYW5uaW5nLXZpb2xhdGlvbi1vZi1uYXRpb25hbC1mbGFnP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Japan passes legislation banning violation of national flag",
+      "summary": "Critics claim latest element of PM Takaichi's conservative drive threatens free speech, invites political abuse.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/japan-passes-legislation-banning-violation-of-national-flag?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T10:56:14.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFdlc3QgSGFtIGNhcHRhaW4gQm93ZW4gdG8gc3RheSBhdCBjbHVifGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jejY0d3czajJ5eG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "West Ham captain Bowen to stay at club",
+      "summary": "West Ham United captain Jarrod Bowen will stay at the club for the forthcoming season in the Championship.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz64ww3j2yxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-17T10:51:02.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxUcnVtcOKAmXMgbmV3IGVsZWN0aW9uIHB1c2gsIGV4cGxhaW5lZHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvNy8xNy90cnVtcHMtbmV3LWVsZWN0aW9uLXB1c2gtZXhwbGFpbmVkP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Trump’s new election push, explained",
+      "summary": "US President Donald Trump used a primetime White House address to revive claims about the 2020 election.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T10:40:11.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJbmRpYSBkZWJ1dHMgaHlkcm9nZW4tcG93ZXJlZCB0cmFpbiBhcyBwYXJ0IG9mIHN1c3RhaW5hYmlsaXR5IGRyaXZlfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZWNvbm9teS8yMDI2LzcvMTcvaW5kaWEtZGVidXRzLWh5ZHJvZ2VuLXBvd2VyZWQtdHJhaW4tYXMtcGFydC1vZi1zdXN0YWluYWJpbGl0eS1kcml2ZT90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "India debuts hydrogen-powered train as part of sustainability drive",
+      "summary": "India joins a handful of countries that have successfully deployed the zero-emission technology in their rail networks.",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/india-debuts-hydrogen-powered-train-as-part-of-sustainability-drive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T10:25:08.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxXb3JsZCBDdXAgdGhpcmQtcGxhY2UgcGxheW9mZjogV2hhdCBhcmUgRnJhbmNlIGFuZCBFbmdsYW5kIHBsYXlpbmcgZm9yP3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL3Nwb3J0cy8yMDI2LzcvMTcvd29ybGQtY3VwLXRoaXJkLXBsYWNlLXBsYXlvZmYtd2hhdC1hcmUtZnJhbmNlLWFuZC1lbmdsYW5kLXBsYXlpbmctZm9yP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "World Cup third-place playoff: What are France and England playing for?",
+      "summary": "Didier Deschamps takes charge ⁠of Les Bleus for the final time while Kylian Mbappe is chasing individual history.",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/world-cup-third-place-playoff-what-are-france-and-england-playing-for?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T10:15:48.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxLbmVzc2V0IGRpc3NvbHZlczogSG93IHdpbGwgSXNyYWVsIHZvdGUgaW4gT2N0b2JlcuKAmXMgZ2VuZXJhbCBlbGVjdGlvbj98aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8xNy9rbmVzc2V0LWRpc3NvbHZlcy1ob3ctd2lsbC1pc3JhZWwtdm90ZS1pbi1vY3RvYmVycy1nZW5lcmFsLWVsZWN0aW9uP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Knesset dissolves: How will Israel vote in October’s general election?",
+      "summary": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T10:10:25.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxIYXMgVWtyYWluZeKAmXMgWmVsZW5za3l5IGNyZWF0ZWQgYSByaXZhbCBieSBzYWNraW5nIGhpcyBkZWZlbmNlIG1pbmlzdGVyP3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzE3L2hhcy11a3JhaW5lcy16ZWxlbnNreXktY3JlYXRlZC1hLXJpdmFsLWJ5LXNhY2tpbmctaGlzLWRlZmVuY2UtbWluaXN0ZXI_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
+      "summary": "Rallies in support of sacked Defence Minister Mykhailo Fedorov have exposed a political challenge for Zelenskyy.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T10:07:11.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxBcyBDaGluZXNlIGVjb25vbXkgc2xvd3MsIGV4cGVydHMgc2F5IHRoZXJlIHdpbGwgYmUg4oCYcHJvYmxlbXMgZm9yIEJlaWppbmfigJl8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9lY29ub215LzIwMjYvNy8xNy9hcy1jaGluZXNlLWVjb25vbXktc2xvd3MtZXhwZXJ0cy1zYXktdGhlcmUtd2lsbC1iZS1wcm9ibGVtcy1mb3ItYmVpamluZz90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+      "summary": "While the 'export engine is running very hot', jobs are lagging, squeezing spending in China.",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T10:06:25.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfFNjaG9vbCBidXMgY3Jhc2gga2lsbHMgYXQgbGVhc3QgMjAgcHVwaWxzIGluIFVnYW5kYXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMTUxZ2Vnd3F2MW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "School bus crash kills at least 20 pupils in Uganda",
+      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-07-17T10:04:27.000Z"
+    },
+    {
+      "id": "QkJDIEJ1c2luZXNzfFdoeSBoYXMgQnJpdGlzaCBTdGVlbCBiZWVuIG5hdGlvbmFsaXNlZD98aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzV5NjZ5NDBrZ3BvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Why has British Steel been nationalised?",
+      "summary": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "business",
+      "publishedAt": "2026-07-17T09:57:02.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fEhvdyBoYXZlIG1pc3NlZCB0YXJnZXRzIGFmZmVjdGVkIE5ld2Nhc3RsZSdzIHN1bW1lciByZWJ1aWxkP3xodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvYzg2MjZweno5NnpvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "How have missed targets affected Newcastle's summer rebuild?",
+      "summary": "Newcastle United have missed out on Johan Manzambi and Victor Munoz this summer, but the club are targeting players who are \"desperate\" to join.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8626pzz96zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-17T09:53:44.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxGSUZBIFdvcmxkIEN1cDogMTAgdGhpbmdzIHRvIGtub3cgYmVmb3JlIFNwYWluLUFyZ2VudGluYSBmaW5hbCBpbiBOZXcgWW9ya3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL3Nwb3J0cy8yMDI2LzcvMTcvc3BhaW4tYXJnZW50aW5hLWZpZmEtd29ybGQtY3VwLTIwMjYtZmluYWwtbWVzc2kteWFtYWwtcGhvdG8tdHJ1bXA_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+      "summary": "From the viral photo of Lionel Messi with baby Lamine Yamal to Donald Trump's presence and the NFL-style half-time show.",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T09:47:55.000Z"
+    },
+    {
+      "id": "QkJDIEJ1c2luZXNzfFdobyBpcyB0aGUgZnJvbnRydW5uZXIgdG8gYmUgdGhlIFVLJ3MgbmV4dCBjaGFuY2VsbG9yP3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMzZ5ajRwbjdqZG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Who is the frontrunner to be the UK's next chancellor?",
+      "summary": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "business",
+      "publishedAt": "2026-07-17T09:42:25.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJc3JhZWwgaGVhZGVkIGZvciBPY3RvYmVyIGVsZWN0aW9uIGFzIHBhcmxpYW1lbnQgZGlzc29sdmVkfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzcvMTcvaXNyYWVsLWhlYWRlZC1mb3Itb2N0b2Jlci1lbGVjdGlvbi1hcy1wYXJsaWFtZW50LWRpc3NvbHZlZD90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Israel headed for October election as parliament dissolved",
+      "summary": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T09:42:05.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFNwYWluIDIwMTAgdiBTcGFpbiAyMDI2OiBIb3cgZG8gdGhlIHR3byBYSXMgY29tcGFyZT98aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2M1eXp5MXJ6eGVwbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Spain 2010 v Spain 2026: How do the two XIs compare?",
+      "summary": "How do Spain's 2010 World Cup winners compare to the current contingent who are looking to match their feat in the 2026 tournament? BBC Sport takes a look.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzy1rzxepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-17T09:36:52.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fENsYXJrICdhIHBvbGl0aWNhbCBmb290YmFsbCcgc2F5cyBOQkEgY2hpZWYgU2lsdmVyfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9iYXNrZXRiYWxsL2FydGljbGVzL2M3NGdsNHhqNzh5bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Clark 'a political football' says NBA chief Silver",
+      "summary": "NBA commissioner Adam Silver believes the debate around the treatment of Indiana Fever star Caitlin Clark is \"not largely about officiating\".",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-17T09:27:28.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxHZXJtYW55IHJlcGVhdHMgY2FsbCBmb3IgRVUgZm9yY2UgdG8gcmVwbGFjZSBVTiBwZWFjZWtlZXBlcnMgaW4gTGViYW5vbnxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzE3L2dlcm1hbnktcmVwZWF0cy1jYWxsLWZvci1ldS1mb3JjZS10by1yZXBsYWNlLXVuLXBlYWNla2VlcGVycy1pbi1sZWJhbm9uP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "summary": "Berlin warns against a 'security vacuum' in Lebanon's south once UNIFIL mandate expires at year's end.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T09:24:03.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFRob3VzYW5kcyBvZiB0aWNrZXRzIHN0aWxsIGF2YWlsYWJsZSBmb3IgRW5nbGFuZCB2IEZyYW5jZXxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvYzV5ZDVrdjFlNWtvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Thousands of tickets still available for England v France",
+      "summary": "Around 7,000 tickets are still listed on Fifa's ticket sites for Saturday's World Cup bronze medal match between England and France.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yd5kv1e5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-17T09:16:00.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxVUyBzdHJpa2VzIGRlc3Ryb3kga2V5IGJyaWRnZXMsIHRvd2VyIGluIHNvdXRoZXJuIElyYW58aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzcvMTcvdXMtc3RyaWtlcy1kZXN0cm95LWtleS1icmlkZ2VzLXRvd2VyLWluLXNvdXRoZXJuLWlyYW4_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "US strikes destroy key bridges, tower in southern Iran",
+      "summary": "US strikes destroy key bridges, tower in southern Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T08:57:56.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFdvcmxkIEN1cCByaW5ncyBmb3Igd2lubmVycyBhcyBUcnVtcCBhdHRlbmRhbmNlIGNvbmZpcm1lZHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvY2dtazdtbm55amVvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "World Cup rings for winners as Trump attendance confirmed",
+      "summary": "Donald Trump will present the trophy to the World Cup final winners on Sunday, and rings will be presented to the victorious side.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-17T08:40:55.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxXYXRjaCBGSUZBIFdvcmxkIEN1cDogQXJnZW50aW5hIGFycml2ZXMgaW4gTmV3IEplcnNleSBhaGVhZCBvZiBTcGFpbiBmaW5hbHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvLzIwMjYvNy8xNy92aWRlby13b3JsZC1jdXAtMjAyNi1oaWdobGlnaHRzP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
+      "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "url": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T08:30:41.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxHdWxmIHN0YXRlcyBjb21lIHVuZGVyIElyYW5pYW4gZmlyZSBhcyBVUyBzdHJpa2VzIGludGVuc2lmeXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzE3L2d1bGYtc3RhdGVzLWNvbWUtdW5kZXItaXJhbmlhbi1maXJlLWFzLXVzLXN0cmlrZXMtaW50ZW5zaWZ5P3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Gulf states come under Iranian fire as US strikes intensify",
+      "summary": "Tehran targets multiple countries across the region as the wave of US strikes on Iran steps up.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-17T08:18:13.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfFRydW1wIE1lZGlhIHRvIHNlbGwgaW5zdGFudCBhY2Nlc3MgdG8gJ21hcmtldC1tb3ZpbmcnIHNvY2lhbCBwb3N0c3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jNzlndzRsajg5ZW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-07-17T07:25:31.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fFdvcmxkIEN1cCBzdGFycyB3aG8gY291bGQgbW92ZSB0aGlzIHN1bW1lcnxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvYzg3bmc0eHE5bndvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -39,15 +291,6 @@
       "publishedAt": "2026-07-17T06:30:34.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxKb2huIEVzcG9zaXRvIHRyYW5zZm9ybWVkIGhvdyB0aGUgV2VzdCB1bmRlcnN0b29kIElzbGFtfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vb3BpbmlvbnMvMjAyNi83LzE3L2pvaG4tZXNwb3NpdG8tdHJhbnNmb3JtZWQtaG93LXRoZS13ZXN0LXVuZGVyc3Rvb2QtaXNsYW0_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "John Esposito transformed how the West understood Islam",
-      "summary": "The pioneering scholar, who died on July 15, challenged Orientalist orthodoxies and reshaped the study of Islam.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T06:27:17.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fFdobyBhbSBJPyBHdWVzcyBXb3JsZCBDdXAgc3RhciBObyA0MHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvYzk4cjJ3N2R6MjZvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "Who am I? Guess World Cup star No 40",
       "summary": "Will you get today's player? Try to guess his identity in as few attempts as possible.",
@@ -57,42 +300,6 @@
       "publishedAt": "2026-07-17T05:41:57.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfFNjaG9vbCBidXMgY3Jhc2gga2lsbHMgYXQgbGVhc3QgMjAgcHVwaWxzIGluIFVnYW5kYXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMTUxZ2Vnd3F2MW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "School bus crash kills at least 20 pupils in Uganda",
-      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
-      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-07-17T05:36:22.000Z"
-    },
-    {
-      "id": "QkJDIFdvcmxkfENoaW5hIGhpdHMgb3V0IGF0IEJyaXRpc2ggU3RlZWwgbmF0aW9uYWxpc2F0aW9ufGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NqZDRrdnhwZDNkbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "China hits out at British Steel nationalisation",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-07-17T05:35:00.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEVmZm9ydCwgc3Bpcml0IGFuZCBtb21lbnRzIC0gYnV0IGRvIEVuZ2xhbmQgbGFjayBhbGwtcm91bmQgcXVhbGl0eT98aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2N6NjR4eW40dnoybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Effort, spirit and moments - but do England lack all-round quality?",
-      "summary": "As England reflect on their World Cup semi-final defeat by Argentina, BBC Sport's Phil McNulty looks at what Thomas Tuchel's team were lacking.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz64xyn4vz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-17T05:32:35.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxDaGluYeKAmXMgWGkgc2F5cyBBSSDigJhzaG91bGQgbm90IGJlIGEgc29sbyBwZXJmb3JtYW5jZSBieSBhIHNpbmdsZSBjb3VudHJ54oCZfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzcvMTcvYWkteGk_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "China’s Xi says AI ‘should not be a solo performance by a single country’",
-      "summary": "The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T05:22:51.000Z"
-    },
-    {
       "id": "QkJDIFdvcmxkfEphcGFuIHJlbGF4ZXMgcm95YWwgc3VjY2Vzc2lvbiBydWxlcyAtIGJ1dCBiYW4gb24gZmVtYWxlIGVtcGVyb3JzIHJlbWFpbnN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3kwN3J6Nzl6ZzlvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
       "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
@@ -100,15 +307,6 @@
       "source": "BBC World",
       "category": "world",
       "publishedAt": "2026-07-17T05:16:34.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxUZXhhcyBmbG9vZHMgcmF2YWdlIHRocm91Z2ggc291dGh3ZXN0ZXJuIGFyZWFzIG9mIHN0YXRlfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzE3L3RleGFzLWZsb29kcy1yYXZhZ2UtdGhyb3VnaC1zb3V0aHdlc3Rlcm4tYXJlYXMtb2Ytc3RhdGU_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Texas floods ravage through southwestern areas of state",
-      "summary": "At least 2 people are dead, and over 200 were rescued in catastrophic floods in the Texas Hill Country region.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T05:12:11.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfE9seW1waWMgY3ljbGlzdCBhZG1pdHMgdG8gZHJpdmluZyBkZXNwaXRlIGJhbiBhZnRlciBjcmFzaCB0aGF0IGtpbGxlZCB3aWZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M2MnEzeXdlcDFybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
@@ -127,60 +325,6 @@
       "source": "BBC Business",
       "category": "business",
       "publishedAt": "2026-07-17T05:00:08.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxLZXkgdGFrZWF3YXlzIGZyb20gRG9uYWxkIFRydW1w4oCZcyBjb250cm92ZXJzaWFsIHNwZWVjaCBvbiBlbGVjdGlvbiBzZWN1cml0eXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzE3L2tleS10YWtlYXdheXMtZnJvbS1kb25hbGQtdHJ1bXBzLXNwZWVjaC1vbi1lbGVjdGlvbi1zZWN1cml0eT90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Key takeaways from Donald Trump’s controversial speech on election security",
-      "summary": "The president claimed China and 'deep state' actors had deceived US voters, but critics say his claims were misleading.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T04:58:58.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxVUyBib21iYXJkcyBJcmFuIGluIHNpeHRoLXN0cmFpZ2h0IG5pZ2h0IG9mIGF0dGFja3N8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzcvMTcvdXMtYm9tYmFyZHMtaXJhbi1pbi1zaXh0aC1zdHJhaWdodC1uaWdodC1vZi1hdHRhY2tzP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "US bombards Iran in sixth-straight night of attacks",
-      "summary": "The US has made good on threats to bomb civilian infrastructure in Iran in its sixth-straight night of attacks.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T04:57:08.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJc3JhZWxpIHNldHRsZXJzIGF0dGFjayBTaW5qaWwgdG93biBpbiBvY2N1cGllZCBXZXN0IEJhbmt8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzcvMTcvaXNyYWVsaS1zZXR0bGVycy1hdHRhY2stc2luamlsLXRvd24taW4tb2NjdXBpZWQtd2VzdC1iYW5rP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Israeli settlers attack Sinjil town in occupied West Bank",
-      "summary": "Clashes erupted after Israeli settlers attacked the outskirts of the occupied West Bank town of Sinjil.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T04:39:08.000Z"
-    },
-    {
-      "id": "QkJDIFdvcmxkfFRydW1wIGFsbGVnZXMgJ3Nob2NraW5nIHZ1bG5lcmFiaWxpdGllcycgaW4gVVMgZWxlY3Rpb24gc2VjdXJpdHkgYWhlYWQgb2YgbWlkdGVybXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3gyazl3dnY1d3lvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-07-17T04:08:27.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxDaGluYSByZWJ1a2VzIFVLIG92ZXIgbmF0aW9uYWxpc2F0aW9uIG9mIEJyaXRpc2ggU3RlZWx8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8xNy9jaGluYS1yZWJ1a2VzLXVrLW92ZXItbmF0aW9uYWxpc2F0aW9uLW9mLWJyaXRpc2gtc3RlZWw_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "China rebukes UK over nationalisation of British Steel",
-      "summary": "The UK has appropriated its last working steelworks following fears its former Chinese owners would shut it down.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T03:40:46.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxXaGljaCBwbGF5ZXJzIGFyZSBmYXZvdXJpdGVzIHRvIGJlIEZJRkEgV29ybGQgQ3VwIDIwMjYgYXdhcmQgd2lubmVycz98aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9zcG9ydHMvMjAyNi83LzE3L3doaWNoLXBsYXllcnMtYXJlLWZhdm91cml0ZXMtdG8tYmUtZmlmYS13b3JsZC1jdXAtMjAyNi1hd2FyZC13aW5uZXJzP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Which players are favourites to be FIFA World Cup 2026 award winners?",
-      "summary": "Lionel Messi and Kylian Mbappe are among the biggest stars expected to walk away with at least one individual award.",
-      "url": "https://www.aljazeera.com/sports/2026/7/17/which-players-are-favourites-to-be-fifa-world-cup-2026-award-winners?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T03:38:28.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfFRhY28gQmVsbCByZW1vdmVzIGxldHR1Y2UgZnJvbSBtZW51IGluIFVTIGFmdGVyIGxpbmtzIHRvIGV4cGxvc2l2ZSBkaWFycmhvZWF8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY20yZ25nbHl2MGpvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -219,33 +363,6 @@
       "publishedAt": "2026-07-17T02:37:45.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxJcmFuaWFuIHNvdXJjZXMgc2F5IFVTIHN0cmlrZXMgaGl0IGNpdmlsaWFuIGluZnJhc3RydWN0dXJlfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzE3L2FqZS1vbmwtbmZfaXJhbmlhbi1zb3VyY2VzLXNheS11cy1zdHJpa2VzLWhpdC1pbmZyYXN0cnVjdHVyZS0xNjA3MjY_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Iranian sources say US strikes hit civilian infrastructure",
-      "summary": "Iranian social media accounts, and local sources allege that US strikes caused casualties and hit infrastructure.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T02:35:55.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJRUEgY2hpZWYgd2FybnMgU3RyYWl0IG9mIEhvcm11eiBjcmlzaXMgdGhyZWF0ZW5zIGdsb2JhbCBlbmVyZ3kgc2VjdXJpdHl8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8xNy9pZWEtY2hpZWYtd2FybnMtc3RyYWl0LW9mLWhvcm11ei1jcmlzaXMtdGhyZWF0ZW5zLWdsb2JhbC1lbmVyZ3ktc2VjdXJpdHk_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
-      "summary": "Fatih Birol says 'oil security is still a critical issue' and world should be 'worried' if situation does not improve.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T02:25:55.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxHb2HigJlzIGZvcmdvdHRlbiBvcmNoYXRhIGRyaW5rIGxpdmVzIG9uIGluIGZhbWlseSBraXRjaGVuc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL2ZlYXR1cmVzL2xvbmdmb3JtLzIwMjYvNy8xNy9nb2FzLWZvcmdvdHRlbi1vcmNoYXRhLWRyaW5rLWxpdmVzLW9uLWluLWZhbWlseS1raXRjaGVucz90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Goa’s forgotten orchata drink lives on in family kitchens",
-      "summary": "Once reserved for elite Catholic households, this almond drink survives thanks to Goans preserving tradition.",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/17/goas-forgotten-orchata-drink-lives-on-in-family-kitchens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T02:21:18.000Z"
-    },
-    {
       "id": "QkJDIFdvcmxkfENhbmFkYSBmaXJlcyBwcm9tcHQgVVMgYWlyIHF1YWxpdHkgYWxlcnRzIGFzIHNtb2tlIGJsYW5rZXRzIG1ham9yIGNpdGllc3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMG03bjQyN3hkOG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
       "summary": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
@@ -255,42 +372,6 @@
       "publishedAt": "2026-07-17T02:15:23.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxIb3cgdGhyZWUgSXZvcmlhbiBmaXJtcyBhcmUgY29tcGV0aW5nIHdpdGggZ2xvYmFsIGJyYW5kc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL2Vjb25vbXkvMjAyNi83LzE3L2hvdy10aHJlZS1pdm9yaWFuLWZpcm1zLWFyZS1jb21wZXRpbmctd2l0aC1nbG9iYWwtYnJhbmRzP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "How three Ivorian firms are competing with global brands",
-      "summary": "Homegrown firms are gaining ground in Ivory Coast's fuel, finance and cosmetics sectors.",
-      "url": "https://www.aljazeera.com/economy/2026/7/17/how-three-ivorian-firms-are-competing-with-global-brands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T02:07:17.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXzigJhUcnVtcCBBY2NvdW50c-KAmSBhcmUgc3ltYm9saWMsIG5vdCBlZmZlY3RpdmUgYXQgY2xvc2luZyB3ZWFsdGggZ2FwfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzE3L3RydW1wLWFjY291bnRzLWFyZS1zeW1ib2xpYy1ub3QtZWZmZWN0aXZlLWF0LWNsb3Npbmctd2VhbHRoLWdhcD90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "‘Trump Accounts’ are symbolic, not effective at closing wealth gap",
-      "summary": "The wealth gap is wider than it’s been in three decades.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trump-accounts-are-symbolic-not-effective-at-closing-wealth-gap?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T01:49:16.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxOb3J0aCBLb3JlYW4gbGVhZGVyIEtpbSBKb25nIFVuIG1lZXRzIHdpdGggdG9wIENoaW5lc2Ugb2ZmaWNpYWx8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8xNy9ub3J0aC1rb3JlYW4tbGVhZGVyLWtpbS1qb25nLXVuLW1lZXRzLXdpdGgtdG9wLWNoaW5lc2Utb2ZmaWNpYWw_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "North Korean leader Kim Jong Un meets with top Chinese official",
-      "summary": "The meeting comes after Xi visited Kim, promising closer diplomatic, law enforcement and military cooperation.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T01:49:03.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxGYWxsaW5nIGRlYnJpcyBmcm9tIGludGVyY2VwdGVkIElyYW5pYW4gc3RyaWtlcyBzcGFya3MgZmlyZXMgaW4gS3V3YWl0fGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzE3L2ZhbGxpbmctZGVicmlzLWZyb20taW50ZXJjZXB0ZWQtaXJhbmlhbi1zdHJpa2VzLXNwYXJrcy1maXJlcy1pbi1rdXdhaXQ_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-      "summary": "Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-17T00:50:09.000Z"
-    },
-    {
       "id": "VGVjaENydW5jaHxTYW4gRnJhbmNpc2NvIG1heW9yIHB1c2hlcyBmb3IgdG91Z2hlciBydWxlcyBhZnRlciB0aGUgV2F5bW8gdHJhZmZpYyBmaWFzY298aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE2L3Nhbi1mcmFuY2lzY28tbWF5b3ItcHVzaGVzLWZvci10b3VnaGVyLXJ1bGVzLWFmdGVyLXRoZS13YXltby10cmFmZmljLWZpYXNjby8",
       "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
       "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
@@ -298,15 +379,6 @@
       "source": "TechCrunch",
       "category": "technology",
       "publishedAt": "2026-07-16T23:25:22.000Z"
-    },
-    {
-      "id": "QkJDIEJ1c2luZXNzfFRoZSBmaW5hbmNpYWwgd2lubmVycyBhbmQgbG9zZXJzIGZyb20gdGhlIFdvcmxkIEN1cHxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZ3JrZWs4bHJ6dm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "The financial winners and losers from the World Cup",
-      "summary": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "business",
-      "publishedAt": "2026-07-16T23:16:14.000Z"
     },
     {
       "id": "QkJDIEJ1c2luZXNzfEkgd291bGRuJ3QgbWFycnkgaGltIHVudGlsIGhlIHBhaWQgb2ZmIGhpcyBkZWJ0LCBub3cgSSdtIGluIGNoYXJnZSBvZiBvdXIgbW9uZXl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzV5ejR3bno2amRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -327,33 +399,6 @@
       "publishedAt": "2026-07-16T23:01:27.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fEFyc2VuYWwgdG8gYXNzZXNzIFNhbGliYSBiYWNrIGluanVyeSB3aXRoIHN1cmdlcnkgYW4gb3B0aW9ufGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jcDg3bnA0MjgycG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Arsenal to assess Saliba back injury with surgery an option",
-      "summary": "Arsenal will assess William Saliba's back injury when he reports back to the club after World Cup duty.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp87np4282po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-16T21:55:52.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEVuZ2xhbmQgbGVhcm5pbmcgb24gdGhlIGpvYiBpbiBPRElzIC0gUm9vdHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvY3JpY2tldC9hcnRpY2xlcy9jZThsMXAyZzg4eW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "England learning on the job in ODIs - Root",
-      "summary": "England batter Joe Root explains the difficulties for young batters in 50-over cricket because of a lack of exposure to the format.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/ce8l1p2g88yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-16T21:46:10.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fE5ldyBZb3JrIGlzc3VlcyBhaXIgcXVhbGl0eSBhbGVydCBkYXlzIGJlZm9yZSBXb3JsZCBDdXAgZmluYWx8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2M5dzBqZW44eDkwbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "New York issues air quality alert days before World Cup final",
-      "summary": "Officials in New York and New Jersey issue an air quality health alert because of wildfire smoke just days before the World Cup final.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0jen8x90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-16T21:29:07.000Z"
-    },
-    {
       "id": "VGVjaENydW5jaHxDb2NhLUNvbGEgc3VzcGVuZGVkIHByb2R1Y3Rpb24gYXQgaXRzIEZhaXJsaWZlIGRhaXJ5IGFmdGVyIGEgcmFuc29td2FyZSBhdHRhY2t8aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE2L2NvY2EtY29sYS1zdXNwZW5kZWQtcHJvZHVjdGlvbi1hdC1pdHMtZmFpcmxpZmUtZGFpcnktYWZ0ZXItYS1yYW5zb213YXJlLWF0dGFjay8",
       "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
       "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
@@ -361,15 +406,6 @@
       "source": "TechCrunch",
       "category": "technology",
       "publishedAt": "2026-07-16T21:22:31.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEVuZ2xhbmQgbW92ZSBCdWVub3MgQWlyZXMgYmFzZSB0byBhdm9pZCBwb3RlbnRpYWwgV29ybGQgQ3VwIHBhcnR5fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9ydWdieS11bmlvbi9hcnRpY2xlcy9jamVqMnB2NGU4em8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "England move Buenos Aires base to avoid potential World Cup party",
-      "summary": "England's rugby players have switched hotels in Buenos Aires to avoid their return home being wrecked by World Cup celebrations should Argentina's football team beat Spain in Sunday's final.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjej2pv4e8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-16T21:09:04.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fFJlbGlhYmxlIFJvb3Qgc3RlcHMgdXAgYWdhaW4gYXMgRW5nbGFuZCBiZWF0IEluZGlhIHRvIGxldmVsIHNlcmllc3xodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvY3JpY2tldC92aWRlb3MvYzE1MWdwcGs0NDhvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -435,8 +471,8 @@
       "publishedAt": "2026-07-16T19:35:23.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfFdoaXRlIEhvdXNlIHRlbGVwcm9tcHRlciBvcGVyYXRvciBhY2N1c2VkIG9mIG1ha2luZyAkMTAwayBvZmYgVHJ1bXAgc3BlZWNoIGJldHN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2pydmRxeXI1ZDVvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "id": "QkJDIFdvcmxkfFdoaXRlIEhvdXNlIHRlbGVwcm9tcHRlciBvcGVyYXRvciBhY2N1c2VkIG9mIG1ha2luZyAkMTAwayBmcm9tIFRydW1wIHNwZWVjaCBiZXRzfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NqcnZkcXlyNWQ1bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
       "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
       "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -561,15 +597,6 @@
       "publishedAt": "2026-07-16T15:38:55.000Z"
     },
     {
-      "id": "VGVjaENydW5jaHxVSyBjb3BzIHNheSBhcnJlc3Qgb2YgdHdvIHlvdW5nIGhhY2tlcnMgZGlzcnVwdGVkIHRoZSBvcGVyYXRpb25zIG9mIGFuIGluZmFtb3VzIGhhY2tpbmcgZ3JvdXB8aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE2L3VrLWNvcHMtc2F5LWFycmVzdC1vZi10d28teW91bmctaGFja2Vycy1kaXNydXB0ZWQtdGhlLW9wZXJhdGlvbnMtb2YtYW4taW5mYW1vdXMtaGFja2luZy1ncm91cC8",
-      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
-      "summary": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
-      "url": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "publishedAt": "2026-07-16T15:37:47.000Z"
-    },
-    {
       "id": "QkJDIEJ1c2luZXNzfEJyaXRpc2ggU3RlZWwgdGFrZW4gaW50byBwdWJsaWMgb3duZXJzaGlwIHRvIHByb3RlY3QgJ3ZpdGFsJyBVSyBzdXBwbHl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzV5NjgwdzYyd25vP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "British Steel taken into public ownership to protect 'vital' UK supply",
       "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
@@ -577,15 +604,6 @@
       "source": "BBC Business",
       "category": "business",
       "publishedAt": "2026-07-16T11:31:15.000Z"
-    },
-    {
-      "id": "QkJDIEJ1c2luZXNzfEFlciBMaW5ndXMgcHJvcG9zZXMgY3V0dGluZyA1MDAgam9icyB1bmRlciBzYXZpbmdzIHBsYW58aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2VxZTUybDR5cjRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Aer Lingus proposes cutting 500 jobs under savings plan",
-      "summary": "The company proposes cutting 290 roles in its head office, along with 140 cabin roles and 70 pilots.",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe52l4yr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "business",
-      "publishedAt": "2026-07-16T11:21:25.000Z"
     },
     {
       "id": "QkJDIEJ1c2luZXNzfFRpa1RvayBmYWNlcyBPZmNvbSBpbnZlc3RpZ2F0aW9uIG92ZXIgY2hpbGQgYWdlIGNoZWNrc3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZThsMXprOWRrOW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
@@ -613,15 +631,6 @@
       "source": "BBC Business",
       "category": "business",
       "publishedAt": "2026-07-16T10:23:00.000Z"
-    },
-    {
-      "id": "QkJDIEJ1c2luZXNzfFdobyBpcyB0aGUgZnJvbnRydW5uZXIgdG8gYmUgdGhlIFVLJ3MgbmV4dCBjaGFuY2VsbG9yP3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMzZ5ajRwbjdqZG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Who is the frontrunner to be the UK's next chancellor?",
-      "summary": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
-      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "business",
-      "publishedAt": "2026-07-16T10:03:05.000Z"
     },
     {
       "id": "QkJDIEJ1c2luZXNzfFVLIGVjb25vbXkgcmV0dXJucyB0byBncm93dGggaW4gTWF5fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M4eG5sbHE5NDRnbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
