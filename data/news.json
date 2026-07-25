@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-07-25T22:43:16.414Z",
+  "updatedAt": "2026-07-25T23:52:04.804Z",
   "total": 87,
   "articles": [
+    {
+      "id": "QkJDIFdvcmxkfFBpenphLCBwYXN0YSwgcG90YXRvZXMsIHByb3RlaW4gLSBob3cgSXRhbGlhbiBjaGlsZHJlbiBiZWNhbWUgc28gb3ZlcndlaWdodHxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMzN5MzE1MXZ5ZG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-07-25T23:30:07.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJcmFuIGFjY3VzZXMgVWtyYWluZSBvZiBkZWFkbHkgYXR0YWNrIG9uIENhc3BpYW4gY29tbWVyY2lhbCB2ZXNzZWx8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8yNS9pcmFuLWFjY3VzZXMtdWtyYWluZS1vZi1kZWFkbHktYXR0YWNrLW9uLWNhc3BpYW4tY29tbWVyY2lhbC12ZXNzZWw_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+      "summary": "Iran accuses Ukraine of attacking a Caspian vessel, killing one sailor and injuring another, calling it a criminal act.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-25T23:16:45.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxGaXJlIHRlYXJzIHRocm91Z2ggSW5kb25lc2lhbiB2aWxsYWdlIGluIFdlc3QgSmF2YXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvNy8yNS9maXJlLXRlYXJzLXRocm91Z2gtaW5kb25lc2lhbi12aWxsYWdlLWluLXdlc3QtamF2YT90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Fire tears through Indonesian village in West Java",
+      "summary": "A fire has torn through a traditional village in the Sukabumi Regency of Indonesia's West Java province.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-25T23:11:44.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fEpvc2h1YSBrbm9ja2VkIGRvd24gdHdpY2UgYXMgZHJhbWF0aWMgd2luIHNldHMgdXAgRnVyeSBmaWdodHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvYm94aW5nL2FydGljbGVzL2NnZXcxbHJwZ3pybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Joshua knocked down twice as dramatic win sets up Fury fight",
+      "summary": "Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-25T23:06:47.000Z"
+    },
     {
       "id": "QkJDIFNwb3J0fFJhbXNheS1QZWF0eSBpbiB0ZWFycyBhZnRlciBtaXNzaW5nIG91dCBvbiBnb2xkIGFnYWlufGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9zd2ltbWluZy9hcnRpY2xlcy9jejA1M2s0N3Awa28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Ramsay-Peaty in tears after missing out on gold again",
@@ -12,8 +48,8 @@
       "publishedAt": "2026-07-25T22:37:49.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxPbmUgZGVhZCwgMTQgaW5qdXJlZCBhcyBjYXIgcmVwb3J0ZWRseSBzdHJpa2VzIGNyb3dkIGF0IEJlcmxpbiBMR0JUUSBldmVudHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzI1L29uZS1kZWFkLTE0LWluanVyZWQtYXMtY2FyLXJlcG9ydGVkbHktc3RyaWtlcy1jcm93ZC1hdC1iZXJsaW4tbGdidHEtZXZlbnQ_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "One dead, 14 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+      "id": "QWwgSmF6ZWVyYXxPbmUgZGVhZCwgMTcgaW5qdXJlZCBhcyBjYXIgcmVwb3J0ZWRseSBzdHJpa2VzIGNyb3dkIGF0IEJlcmxpbiBMR0JUUSBldmVudHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzI1L29uZS1kZWFkLTE0LWluanVyZWQtYXMtY2FyLXJlcG9ydGVkbHktc3RyaWtlcy1jcm93ZC1hdC1iZXJsaW4tbGdidHEtZXZlbnQ_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "One dead, 17 injured as car reportedly strikes crowd at Berlin LGBTQ event",
       "summary": "German police say they believe car drove into Tiergarten park, near the route of a Pride march, hitting several people.",
       "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
       "source": "Al Jazeera",
@@ -57,17 +93,8 @@
       "publishedAt": "2026-07-25T21:59:39.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfFNldmVyYWwgaW5qdXJlZCBhdCBCZXJsaW4gUHJpZGUgYWZ0ZXIgcmVwb3J0cyB2ZWhpY2xlIGRyb3ZlIGludG8gY3Jvd2QsIHBvbGljZSBzYXl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2x5cXp5bHozem5vP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-      "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-07-25T21:33:00.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEFyc2VuYWwgcGxvdCBzaG9jayBWaW5pY2l1cyBKciBtb3ZlIC0gU3VuZGF5J3MgZ29zc2lwfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jNXl3MndxeHZqd28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Arsenal plot shock Vinicius Jr move - Sunday's gossip",
+      "id": "QkJDIFNwb3J0fEFyc2VuYWwgZXhwbG9yZSBWaW5pY2l1cyBKciBtb3ZlIC0gU3VuZGF5J3MgZ29zc2lwfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jNXl3MndxeHZqd28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
       "summary": "Arsenal explore move for Vinicius Jr, Inter Milan interested in Cristian Romero and Real Madrid bid for Yan Diomande rejected, plus more.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -300,24 +327,6 @@
       "publishedAt": "2026-07-25T16:00:00.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXzigJhXZSBoYXZlIGRvbmUgaXTigJk6IEpveSBhcyDigJhDb2Nrcm9hY2jigJkgcHJvdGVzdHMgcHVzaCBJbmRpYSBtaW5pc3RlciBvdXR8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9mZWF0dXJlcy8yMDI2LzcvMjUvd2UtaGF2ZS1kb25lLWl0LWpveS1hcy1jb2Nrcm9hY2gtcHJvdGVzdHMtcHVzaC1pbmRpYS1taW5pc3Rlci1vdXQ_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
-      "summary": "Education Minister Dharmendra Pradhan resigns after youth-led protests over exam leaks rattle PM Modi's government.",
-      "url": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-25T15:53:53.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxTeXJpYW4gRk0gY2FsbHMgZm9yIElzcmFlbGkgd2l0aGRyYXdhbCBpbiBtZWV0aW5nIHdpdGggVU4gY2hpZWZ8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzcvMjUvc3lyaWFuLWZtLWNhbGxzLWZvci1pc3JhZWxpLXdpdGhkcmF3YWwtaW4tbWVldGluZy13aXRoLXVuLWNoaWVmP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
-      "summary": "Syrian Foreign Minister Asaad al-Shaibani called for Israel to withdraw immediately and unconditionally from Syria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-25T15:52:19.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fEhvd2UgdW5zdXJlIG92ZXIgR3VpbWFyYWVzIGZ1dHVyZSBhbWlkIEFyc2VuYWwgaW50ZXJlc3R8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2NkcnZ4bTY4Mnlrbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Howe unsure over Guimaraes future amid Arsenal interest",
       "summary": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
@@ -361,15 +370,6 @@
       "source": "BBC Technology",
       "category": "technology",
       "publishedAt": "2026-07-25T10:14:41.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fCdNYXliZSBoZSdzIGEgcmFjaXN0JyAtIFRydW1wIGNyaXRpY2FsIG9mIEphbWVzfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9iYXNrZXRiYWxsL2FydGljbGVzL2MwNGt6Mzk3bnYxbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "'Maybe he's a racist' - Trump critical of James",
-      "summary": "United States President Donald Trump said LeBron James might be \"a racist\" when asked if the basketball star is the \"best ever\" to play the sport.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-25T06:36:52.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfElyYW4tYmFja2VkIEhvdXRoaXMgY2xhaW0gbWlzc2lsZSBhdHRhY2sgb24gU2F1ZGkgQXJhYmlhfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NqOWQyN3Y3MGoxbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
