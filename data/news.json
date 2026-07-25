@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-07-25T16:51:44.652Z",
-  "total": 85,
+  "updatedAt": "2026-07-25T17:51:21.230Z",
+  "total": 86,
   "articles": [
+    {
+      "id": "QkJDIFdvcmxkfEluZGlhJ3MgJ2NvY2tyb2FjaCcgcHJvdGVzdCBjYWxsZWQgb2ZmIGFmdGVyIGVkdWNhdGlvbiBtaW5pc3RlciBxdWl0c3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZHg4MjhnajV4a28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-07-25T17:44:46.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFN0IEpvaG5zdG9uZSBjcmFzaCBvdXQgYXMgRHVuZGVlIFV0ZCBzcXVlZXplIHRocm91Z2ggLSBMZWFndWUgQ3VwIHJvdW5kLXVwfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jNzBnZWdybmVuNW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+      "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gegrnen5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-25T17:15:09.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfE1vcmUgdGhhbiAyNTAsMDAwIGZsZWUgd2lsZGZpcmVzIGluIEZyYW5jZSBhbmQgU3BhaW58aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2Q3bGUwZDUzeTJvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-07-25T17:13:40.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fE5vcnJpcyB0YWtlcyBwb2xlIGFzIEhhbWlsdG9uIGdpdmVuIGdyaWQgcGVuYWx0eXxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9ybXVsYTEvYXJ0aWNsZXMvYzRndjAydnl6djRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Norris takes pole as Hamilton given grid penalty",
+      "summary": "McLaren's Lando Norris takes his first grand prix pole position of 2026 in Hungary, as Lewis Hamilton is penalised for impeding Oscar Piastri.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gv02vyzv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-25T16:58:35.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fE1hcnNoIHN0YXJzIGFzIFN1bnJpc2VycyBiZWF0IEJyYXZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jcmlja2V0L2FydGljbGVzL2Nudm56bmU4eXk2bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Marsh stars as Sunrisers beat Brave",
+      "summary": "Mitchell Marsh hits 69 off 34 balls to help Sunrisers Leeds beat Southern Brave by five runs at Headingley.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cnvnzne8yy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-25T16:50:04.000Z"
+    },
     {
       "id": "VGVjaENydW5jaHxLYWxzaGkgZGVtYW5kcyBOZXRmbGl4IHRha2UgZG93biB0cmFpbGVyIGZvciDigJhQcmVkaWN0aW9uIEdhbWVz4oCZIGRvY3VtZW50YXJ5fGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNi8wNy8yNS9rYWxzaGktZGVtYW5kcy1uZXRmbGl4LXRha2UtZG93bi10cmFpbGVyLWZvci1wcmVkaWN0aW9uLWdhbWVzLWRvY3VtZW50YXJ5Lw",
       "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
@@ -30,31 +75,13 @@
       "publishedAt": "2026-07-25T16:36:48.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fE5vcnJpcyBiZWF0cyBIYW1pbHRvbiB0byBIdW5nYXJ5IHBvbGV8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvcm11bGExL2FydGljbGVzL2M0Z3YwMnZ5enY0bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Norris beats Hamilton to Hungary pole",
-      "summary": "McLaren's Lando Norris takes his first grand prix pole position of 2026, beating Lewis Hamilton with the final lap of the session in Hungary.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gv02vyzv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-25T16:34:33.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fFBvZ2FjYXIgc2V0IHRvIGVxdWFsIFRvdXIgcmVjb3JkIGFzIENhcmFwYXogd2lucyBzdGFnZXxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvY3ljbGluZy9hcnRpY2xlcy9jMWQxNDFkbDJxcm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Pogacar set to equal Tour record as Carapaz wins stage",
+      "id": "QkJDIFNwb3J0fFBvZ2FjYXIgcG9pc2VkIHRvIGpvaW4gVG91ciBncmVhdHMgd2l0aCBmaWZ0aCB0aXRsZSBpbiBQYXJpcyBmaW5hbGV8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2N5Y2xpbmcvYXJ0aWNsZXMvYzFkMTQxZGwycXJvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Pogacar poised to join Tour greats with fifth title in Paris finale",
       "summary": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.",
       "url": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
       "publishedAt": "2026-07-25T16:25:59.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEdpYW50cyBlbmQgMTItbWF0Y2ggbG9zaW5nIHJ1biB3aXRoIHdpbiBhdCBZb3JrfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9ydWdieS1sZWFndWUvYXJ0aWNsZXMvY2UzcWxlbHEyOTNvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Giants end 12-match losing run with win at York",
-      "summary": "Huddersfield Giants end a run of 12 successive Super League defeats with a spirited victory at York Knights.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ce3qlelq293o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-25T16:17:25.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fEhhbGlmYXggdGhyYXNoIExlZWRzIGFzIDEwLXRyeSBIYXdraW5zIHN0YXJzIGluIFdoZWVsY2hhaXIgQ2hhbGxlbmdlIEN1cCBmaW5hbHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvcnVnYnktbGVhZ3VlL2FydGljbGVzL2Nldm1lbmcxMzJ2bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
@@ -156,15 +183,6 @@
       "publishedAt": "2026-07-25T13:49:12.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfENKUCBwcm90ZXN0OiBUaGUgeW91dGggbW92ZW1lbnQgSW5kaWEncyBNb2RpIGRpZG4ndCBzZWUgY29taW5nfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MwN3JncHhlNTFubz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "CJP protest: The youth movement India's Modi didn't see coming",
-      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
-      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-07-25T13:26:04.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fE1hbGF5c2lhIHNldCB0byBob3N0IHBvc3Rwb25lZCBCYWhyYWluIEdQfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb3JtdWxhMS9hcnRpY2xlcy9jM3cwMXl2cDIxOG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Malaysia set to host postponed Bahrain GP",
       "summary": "Malaysia is set to hold a grand prix in October as a replacement for the Bahrain race that was called off earlier this season.",
@@ -228,15 +246,6 @@
       "publishedAt": "2026-07-25T12:41:02.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fFNlYW4gTWNDYW5uIC0gYnJvdGhlciBvZiBNYWRlbGVpbmUgLSBtYWtlcyBDb21tb253ZWFsdGhzIGZpbmFsfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9zd2ltbWluZy9hcnRpY2xlcy9jNGd3N3B6ZzcweW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Sean McCann - brother of Madeleine - makes Commonwealths final",
-      "summary": "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games.",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-25T12:27:09.000Z"
-    },
-    {
       "id": "QWwgSmF6ZWVyYXxUcnVtcCBmYWNlcyBiYWNrbGFzaCBmb3IgdXNpbmcg4oCYUGFsZXN0aW5pYW7igJkgYXMgYW4gaW5zdWx0fGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzI1L3RydW1wLWZhY2VzLWJhY2tsYXNoLWZvci11c2luZy1wYWxlc3Rpbmlhbi1hcy1hbi1pbnN1bHQ_dHJhZmZpY19zb3VyY2U9cnNz",
       "title": "Trump faces backlash for using ‘Palestinian’ as an insult",
       "summary": "US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.",
@@ -273,12 +282,12 @@
       "publishedAt": "2026-07-25T10:26:41.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfFdhcm5pbmcgc2hvdCBvciBwdWJsaWNpdHkgc3R1bnQgLSBob3cgd29ycmllZCBzaG91bGQgd2UgYmUgYWJvdXQgdGhlIE9wZW5BSSBoYWNrP3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZDl3MjJuOWU0Z28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "id": "QkJDIFRlY2hub2xvZ3l8V2FybmluZyBzaG90IG9yIHB1YmxpY2l0eSBzdHVudCAtIGhvdyB3b3JyaWVkIHNob3VsZCB3ZSBiZSBhYm91dCB0aGUgT3BlbkFJIGhhY2s_fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NkOXcyMm45ZTRnbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
       "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
       "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
+      "source": "BBC Technology",
+      "category": "technology",
       "publishedAt": "2026-07-25T10:14:41.000Z"
     },
     {
