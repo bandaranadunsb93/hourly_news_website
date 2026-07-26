@@ -1,15 +1,177 @@
 {
-  "updatedAt": "2026-07-26T11:55:00.352Z",
+  "updatedAt": "2026-07-26T14:36:32.350Z",
   "total": 86,
   "articles": [
     {
+      "id": "QkJDIEJ1c2luZXNzfEdhdHdpY2sgQWlycG9ydCBsZWZ0IHdpdGhvdXQgcnVubmluZyB3YXRlciBhZnRlciBtYWpvciBvdXRhZ2V8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2RldzJkbnhsenpvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Gatwick Airport left without running water after major outage",
+      "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "business",
+      "publishedAt": "2026-07-26T14:22:26.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxTZW5lZ2Fs4oCZcyBGYXllIGxhdW5jaGVzIGEgbmV3IHBhcnR5LCBmb3JtYWxpc2luZyBoaXMgc3BsaXQgd2l0aCBTb25rb3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzI2L3NlbmVnYWxzLWZheWUtbGF1bmNoZXMtYS1uZXctcGFydHktZm9ybWFsaXNpbmctaGlzLXNwbGl0LXdpdGgtc29ua28_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
+      "summary": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal's political landscape.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T14:22:03.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fEZlbWFsZSByZWZlcmVlIGluanVyZWQgaW4gbWVsZWUgZHVyaW5nIGZyaWVuZGx5fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jbTJnZW1ybjdqZG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Female referee injured in melee during friendly",
+      "summary": "A female referee is injured and has to leave the pitch after being knocked to the ground during a friendly.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gemrn7jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-26T14:11:47.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxDb250cm92ZXJzaWFsIEFyZ2VudGluYSBXb3JsZCBDdXAgYmFubmVyIGdldHMgbmV3IGxpZmUgaW4gcHJpbnR8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzcvMjYvY29udHJvdmVyc2lhbC1hcmdlbnRpbmEtd29ybGQtY3VwLWJhbm5lci1nZXRzLW5ldy1saWZlLWluLXByaW50P3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Controversial Argentina World Cup banner gets new life in print",
+      "summary": "A workshop in Buenos Aires is offering fans free prints of ‘The Malvinas are Argentine’, recreating the divisive banner",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/controversial-argentina-world-cup-banner-gets-new-life-in-print?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T14:05:03.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJc3JhZWwgYW5kIHRoZSBjb3N0IHBhcmFkb3ggb2YgdGhlIElyYW4gd2FyfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vb3BpbmlvbnMvMjAyNi83LzI2L2lzcmFlbC1hbmQtdGhlLWNvc3QtcGFyYWRveC1vZi10aGUtaXJhbi13YXI_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Israel and the cost paradox of the Iran war",
+      "summary": "Israel instigated the war on Iran and yet it has borne few of its costs.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T14:04:39.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJc3JhZWxpIGFpciBzdHJpa2Ugb24gYSB2ZWhpY2xlIGluIEdhemEga2lsbHMgdHdvIEhhbWFzIHNlY3VyaXR5IG9mZmljaWFsc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzI2L2lzcmFlbGktYWlyLXN0cmlrZS1vbi1hLXZlaGljbGUtaW4tZ2F6YS1raWxscy10d28taGFtYXMtc2VjdXJpdHktb2ZmaWNpYWxzP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+      "summary": "The head of internal security for Hamas in central Gaza was among the dead.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T13:51:53.000Z"
+    },
+    {
       "id": "QkJDIFdvcmxkfFdoYXQgd2Uga25vdyBzbyBmYXIgYWJvdXQgdGhlIEJlcmxpbiBQcmlkZSByYW1taW5nIGF0dGFja3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZXZtZHh6NDg3Mm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "What we know so far about the Berlin Pride ramming attack",
-      "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
       "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
-      "publishedAt": "2026-07-26T11:41:04.000Z"
+      "publishedAt": "2026-07-26T13:40:29.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxZZW1lbuKAmXMgaGVhbHRoIHdvcmtlcnMgcmFjZSB0byBoYWx0IGxhdGVzdCBvdXRicmVhayBvZiBkZWFkbHkgZGVuZ3VlIGZldmVyfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzcvMjYveWVtZW5zLWhlYWx0aC13b3JrZXJzLXJhY2UtdG8taGFsdC1sYXRlc3Qtb3V0YnJlYWstb2YtZGVhZGx5LWRlbmd1ZS1mZXZlcj90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
+      "summary": "Health workers are battling to contain the mosquito-borne disease amid growing concern over rising infections.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T13:39:17.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxGcm9tIHBhcmFkaXNlIHRvIOKAmHBpbG90IHpvbmXigJkgZGlzYXN0ZXI6IFJldHVybmluZyB0byBkZXN0cm95ZWQgTGViYW5vbiBob21lfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzI2L2Zyb20tcGFyYWRpc2UtdG8tcGlsb3Qtem9uZS1kaXNhc3Rlci1yZXR1cm5pbmctdG8tZGVzdHJveWVkLWxlYmFub24taG9tZT90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
+      "summary": "Sumaya Yaghi returns to what's left of her destroyed home in southern Lebanon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/from-paradise-to-pilot-zone-disaster-returning-to-destroyed-lebanon-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T13:34:45.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxXaHkgYXJlIElzcmFlbGkgc2V0dGxlcnMgb24gYSByYW1wYWdlIGluIHRoZSBvY2N1cGllZCBXZXN0IEJhbms_fGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzcvMjYvd2h5LWFyZS1pc3JhZWxpLXNldHRsZXJzLW9uLWEtcmFtcGFnZS1pbi10aGUtb2NjdXBpZWQtd2VzdC1iYW5rP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Why are Israeli settlers on a rampage in the occupied West Bank?",
+      "summary": "Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens 'more broad action'.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T13:31:04.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxMYW5ndG9uIHJlbGVhc2VkIGZyb20gaG9zcGl0YWwgYWZ0ZXIgY29uY3Vzc2lvbiBhdCBDb21tb253ZWFsdGggR2FtZXN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9zcG9ydHMvMjAyNi83LzI2L2xhbmd0b24tcmVsZWFzZWQtZnJvbS1ob3NwaXRhbC1hZnRlci1jb25jdXNzaW9uLWF0LWNvbW1vbndlYWx0aC1nYW1lcz90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Langton released from hospital after concussion at Commonwealth Games",
+      "summary": "British gymnast Gabriel Langton admitted after headfirst crash off horizontal bar.",
+      "url": "https://www.aljazeera.com/sports/2026/7/26/langton-released-from-hospital-after-concussion-at-commonwealth-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T13:30:32.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXzigJhOZXcgZWR1Y2F0aW9uIG1pbmlzdGVyIGNhbuKAmXQgYnJpbmcgbXkgZGVhZCBkYXVnaHRlciBiYWNr4oCZfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzI2L25ldy1lZHVjYXRpb24tbWluaXN0ZXItY2FudC1icmluZy1teS1kZWFkLWRhdWdodGVyP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "‘New education minister can’t bring my dead daughter back’",
+      "summary": "Parents of students who died by suicide following a paper leak in India say nothing can bring their loved ones back.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/new-education-minister-cant-bring-my-dead-daughter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T13:26:17.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxXaGF0IG5leHQgZm9yIEluZGlh4oCZcyDigJhDb2Nrcm9hY2jigJkgbW92ZW1lbnQgYWZ0ZXIgZWR1Y2F0aW9uIG1pbmlzdGVyIHNhY2tlZHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzI2L3doYXQtbmV4dC1mb3ItaW5kaWFzLWNvY2tyb2FjaC1tb3ZlbWVudC1hZnRlci1lZHVjYXRpb24tbWluaXN0ZXItc2Fja2VkP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "What next for India’s ‘Cockroach’ movement after education minister sacked",
+      "summary": "The weeks-long Gen Z-led protests forced a key Modi minister to resign. Where does the movement go from here?",
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-next-for-indias-cockroach-movement-after-education-minister-sacked?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T13:15:01.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fEVuZ2xhbmQgc3VmZmVyIGhlYXZ5IG5ldGJhbGwgZGVmZWF0IGJ5IEF1c3RyYWxpYXxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvbmV0YmFsbC9hcnRpY2xlcy9jZHJ2ZzN5cHg1eW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "England suffer heavy netball defeat by Australia",
+      "summary": "England captain Fran Williams says her team were \"far from our best\" in a 66-47 defeat by defending Commonwealth champions Australia.",
+      "url": "https://www.bbc.co.uk/sport/netball/articles/cdrvg3ypx5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-26T13:02:04.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJc3JhZWxpIGNyYWNrZG93biBpbiBvY2N1cGllZCBXZXN0IEJhbmsgaW50ZW5zaWZpZXMsIHNldHRsZXJzIGNhdXNlIG1heWhlbXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzI2L2lzcmFlbGktY3JhY2tkb3duLWluLW9jY3VwaWVkLXdlc3QtYmFuay1pbnRlbnNpZmllcy1zZXR0bGVycy1jYXVzZS1tYXloZW0_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
+      "summary": "The surge in violence comes after four Palestinians and two soldiers were killed in a gunfight on Friday.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-crackdown-in-occupied-west-bank-intensifies-settlers-cause-mayhem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T12:52:29.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxFaWdodGVlbiBwZW9wbGUgbWlzc2luZyBpbiBTb3V0aCBDaGluYSBTZWEgYWZ0ZXIgVmlldG5hbWVzZSBzaGlwIHNhbmt8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8yNi9laWdodGVlbi1wZW9wbGUtbWlzc2luZy1pbi1zb3V0aC1jaGluYS1zZWEtYWZ0ZXItdmlldG5hbWVzZS1zaGlwLXNhbms_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Eighteen people missing in South China Sea after Vietnamese ship sank",
+      "summary": "There were 62 people aboard the vessel when it sank, all of them Vietnamese nationals.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/eighteen-people-missing-in-south-china-sea-after-vietnamese-ship-sank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T12:50:26.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxQcmVzaWRlbnQgQWhtZWQgYWwtU2hhcmFhOiBTeXJpYSBzZWVraW5nIHNlY3VyaXR5IGRlYWwgd2l0aCBJc3JhZWx8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8yNi9wcmVzaWRlbnQtYWhtZWQtYWwtc2hhcmFhLXN5cmlhLXNlZWtpbmctc2VjdXJpdHktZGVhbC13aXRoLWlzcmFlbD90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
+      "summary": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T12:34:13.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxXaGF0IGlzIHRoZSBBSSBLaWxsIFN3aXRjaCBBY3QgcHJvcG9zZWQgaW4gdGhlIFVTIGFuZCBob3cgd2lsbCBpdCB3b3JrP3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzI2L3doYXQtaXMtdGhlLWFpLWtpbGwtc3dpdGNoLWFjdC1wcm9wb3NlZC1pbi10aGUtdXMtYW5kLWhvdy13aWxsLWl0LXdvcms_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "What is the AI Kill Switch Act proposed in the US and how will it work?",
+      "summary": "US lawmakers introduce a bill aimed at giving the government power to order companies to shut down 'rogue' AI systems.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T12:30:28.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxDYXNlbWlybyBtYWtlcyBJbnRlciBNaWFtaSBkZWJ1dCBkZXNwaXRlIE1MUyBpbnZlc3RpZ2F0aW9uIGludG8gdHJhbnNmZXJ8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9zcG9ydHMvMjAyNi83LzI2L2Nhc2VtaXJvLW1ha2VzLWludGVyLW1pYW1pLWRlYnV0LWRlc3BpdGUtbWxzLWludmVzdGlnYXRpb24taW50by10cmFuc2Zlcj90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Casemiro makes Inter Miami debut despite MLS investigation into transfer",
+      "summary": "Casemiro plays, Messi sits out during his post-World Cup rest, and Suarez scores to give Miami a sixth straight MLS win.",
+      "url": "https://www.aljazeera.com/sports/2026/7/26/casemiro-makes-inter-miami-debut-despite-mls-investigation-into-transfer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-07-26T12:20:19.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fEhpZ2hsaWdodHMgLSBKb3NodWEgYmVhdHMgUHJlbmdhIGFmdGVyIGVhcmx5IHNjYXJlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9ib3hpbmcvdmlkZW9zL2N2Z3ZwN240NWU1bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
@@ -21,15 +183,6 @@
       "publishedAt": "2026-07-26T11:33:43.000Z"
     },
     {
-      "id": "QkJDIEJ1c2luZXNzfFdhdGVyIHN1cHBseSBpc3N1ZSBhZmZlY3RzIEdhdHdpY2sgQWlycG9ydHxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZGV3MmRueGx6em8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Water supply issue affects Gatwick Airport",
-      "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "business",
-      "publishedAt": "2026-07-26T11:33:20.000Z"
-    },
-    {
       "id": "QkJDIFdvcmxkfEZpcmVmaWdodGVycyBiYXR0bGUgd2lsZGZpcmUgYXMgdGVucyBvZiB0aG91c2FuZHMgZXZhY3VhdGVkIG5lYXIgQm9yZGVhdXh8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2x5ajhrNG5uNWpvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
@@ -39,60 +192,6 @@
       "publishedAt": "2026-07-26T11:29:07.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxNYWxheXNpYSB0byBob3N0IHJlc2NoZWR1bGVkIEJhaHJhaW4gR3JhbmQgUHJpeCBGMSByYWNlIGluIE9jdG9iZXJ8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9zcG9ydHMvMjAyNi83LzI2L21hbGF5c2lhLXRvLWhvc3QtcmVzY2hlZHVsZWQtYmFocmFpbi1ncmFuZC1wcml4LWYxLXJhY2UtaW4tb2N0b2Jlcj90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
-      "summary": "The race in Bahrain was rescheduled in April amid the US-Israel war on Iran and will now be held in Malaysia.",
-      "url": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T11:28:24.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxBbnRpLXdhciBwcm90ZXN0ZXJzIGRlbWFuZCBlbmQgdG8gVVMgdXNlIG9mIFVLIGFpcmJhc2UgdG8gc3RyaWtlIElyYW58aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzcvMjYvYW50aS13YXItcHJvdGVzdGVycy1kZW1hbmQtZW5kLXRvLXVzLXVzZS1vZi11ay1haXJiYXNlLXRvLXN0cmlrZS1pcmFuP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
-      "summary": "Anti-war activists have protested outside a UK airbase over US forces using it to bomb Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T11:18:00.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxGZW1hbGUgZm9vdGJhbGwgcmVmZXJlZSBzdWZmZXJzIGNvbmN1c3Npb24gYW1pZCBtYWxlIHBsYXllcnPigJkgbWVsZWV8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvNy8yNi9mZW1hbGUtZm9vdGJhbGwtcmVmZXJlZS1zdWZmZXJzLWNvbmN1c3Npb24tYW1pZC1tYWxlLXBsYXllcnMtbWVsZWU_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Female football referee suffers concussion amid male players’ melee",
-      "summary": "Referee Mathilde Demoncay was knocked down as the players fought during a friendly club match in France.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T11:00:32.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxXaHkgdGhlIFVLIGNhbmNlbGxlZCBhIG1pbGl0YXJ5IGV4ZXJjaXNlIGluIEtlbnlhIOKAkyBhbmQgd2hhdCBpdCBtZWFuc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi83LzI2L3doeS10aGUtdWstY2FuY2VsbGVkLWEtbWlsaXRhcnktZXhlcmNpc2UtaW4ta2VueWEtYW5kLXdoYXQtaXQtbWVhbnM_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Why the UK cancelled a military exercise in Kenya – and what it means",
-      "summary": "A dispute over military cooperation and accountability strains a decades-old UK-Kenya partnership.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T10:47:27.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxBZnRlciBTdHJhaXQgb2YgSG9ybXV6IGFuZCBSZWQgU2VhLCBoYXMgSXJhbiB3YXIgbm93IHJlYWNoZWQgQ2FzcGlhbiBTZWE_fGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzcvMjYvYWZ0ZXItc3RyYWl0LW9mLWhvcm11ei1hbmQtcmVkLXNlYS1oYXMtaXJhbi13YXItbm93LXJlYWNoZWQtY2FzcGlhbi1zZWE_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
-      "summary": "Iran condemns what it calls a 'hostile and criminal' Ukrainian attack on commercial vessel. How will it affect the war?",
-      "url": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T10:45:23.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxXaG8gaXMgSW5kaWHigJlzIG5ldyBlZHVjYXRpb24gbWluaXN0ZXI_fGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzI2L3doby1pcy1pbmRpYXMtbmV3LWVkdWNhdGlvbi1taW5pc3Rlcj90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Who is India’s new education minister?",
-      "summary": "India’s government has picked Pralhad Joshi as the new education minister after weeks of protests over exam scandals.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/who-is-indias-new-education-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T10:33:58.000Z"
-    },
-    {
       "id": "QkJDIFdvcmxkfElzcmFlbGkgc2V0dGxlcnMgc2V0IGZpcmUgdG8gbW9zcXVlcywgY2FycyBhbmQgZmFybSBsYW5kIGluIFdlc3QgQmFuaywgUGFsZXN0aW5pYW5zIHNheXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9janJ2NzdnbDRkZW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
@@ -100,87 +199,6 @@
       "source": "BBC World",
       "category": "world",
       "publishedAt": "2026-07-26T10:26:05.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxKYXBhbmVzZSBmb290YmFsbCBsZWdlbmQg4oCYS2luZyBLYXp14oCZLCA1OSwgc2NvcmVzIGZpcnN0IGdvYWwgaW4gZm91ciB5ZWFyc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL3Nwb3J0cy8yMDI2LzcvMjYvamFwYW5lc2UtZm9vdGJhbGwtbGVnZW5kLWtpbmcta2F6dS01OS1zY29yZXMtZmlyc3QtZ29hbC1pbi1mb3VyLXllYXJzP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Japanese football legend ‘King Kazu’, 59, scores first goal in four years",
-      "summary": "The world's oldest professional footballer, Kazuyoshi Miura, scores as Fukushima United thrash Iwaki Furukawa 7-0.",
-      "url": "https://www.aljazeera.com/sports/2026/7/26/japanese-football-legend-king-kazu-59-scores-first-goal-in-four-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T10:18:29.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxQaG90b3M6IFdpbGRmaXJlcyBpbiBGcmFuY2UgZHJpdmUgMjUwLDAwMCBwZW9wbGUgZnJvbSB0aGVpciBob21lc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL2dhbGxlcnkvMjAyNi83LzI2L3Bob3Rvcy13aWxkZmlyZXMtaW4tZnJhbmNlLWRyaXZlLTI1MDAwMC1wZW9wbGUtZnJvbS10aGVpci1ob21lcz90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Photos: Wildfires in France drive 250,000 people from their homes",
-      "summary": "As the flames approached the city of Bordeaux, 55,000 more people had to be evacuated from their homes overnight.",
-      "url": "https://www.aljazeera.com/gallery/2026/7/26/photos-wildfires-in-france-drive-250000-people-from-their-homes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T10:08:04.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJc3JhZWxpIHByb3Rlc3RlcnMgZGVub3VuY2UgZGVhZGx5IHNldHRsZXIgdmlvbGVuY2V8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzcvMjYvaXNyYWVsaS1wcm90ZXN0ZXJzLWRlbm91bmNlLWRlYWRseS1zZXR0bGVyLXZpb2xlbmNlP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Israeli protesters denounce deadly settler violence",
-      "summary": "Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T10:06:52.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxUaGUgQ29ja3JvYWNoIEVmZmVjdDogTW9kaSB2cyBJbmRpYeKAmXMgR2VuIFp8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby90aGUtbGlzdGVuaW5nLXBvc3QvMjAyNi83LzI2L3RoZS1jb2Nrcm9hY2gtZWZmZWN0LW1vZGktdnMtaW5kaWFzLWdlbi16P3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "The Cockroach Effect: Modi vs India’s Gen Z",
-      "summary": "Protests by India's Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T09:08:52.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxUaG91c2FuZHMgcmFsbHkgYWdhaW5zdCBUdW5pc2lh4oCZcyBwcmVzaWRlbnQgZml2ZSB5ZWFycyBhZnRlciBwb3dlciBncmFifGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi83LzI2L3Rob3VzYW5kcy1yYWxseS1hZ2FpbnN0LXR1bmlzaWFzLXByZXNpZGVudC1maXZlLXllYXJzLWFmdGVyLXBvd2VyLWdyYWI_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Thousands rally against Tunisia’s president five years after power grab",
-      "summary": "Thousands marched in Tunisia’s capital to demand the resignation of President Kais Saied.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T08:55:46.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxCZWNvbWluZyB0aGUgc3Rvcnk6IEluanVyZWQgam91cm5hbGlzdHMgYmF0dGxlIHRvIGxlYXZlIEdhemEgZm9yIHRyZWF0bWVudHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL2ZlYXR1cmVzLzIwMjYvNy8yNi9iZWNvbWluZy10aGUtc3RvcnktaW5qdXJlZC1qb3VybmFsaXN0cy1iYXR0bGUtdG8tbGVhdmUtZ2F6YS1mb3ItdHJlYXRtZW50P3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-      "summary": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
-      "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T08:55:10.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJc3JhZWwgZGViYXRlIGJvaWxzIG92ZXIgaW4gdGhlIFVuaXRlZCBTdGF0ZXN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby90aGUtbGlzdGVuaW5nLXBvc3QvMjAyNi83LzI2L2lzcmFlbC1kZWJhdGUtYm9pbHMtb3Zlci1pbi10aGUtdW5pdGVkLXN0YXRlcz90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Israel debate boils over in the United States",
-      "summary": "How far have US politics - and media - really shifted on the topic of Israel?",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T08:53:39.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJc3JhZWwgcmFpZHMgV2VzdCBCYW5rIGxpdmU6IFBNIE5ldGFueWFodSB0aHJlYXRlbnMg4oCYbW9yZSBicm9hZCBhY3Rpb27igJl8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzL2xpdmVibG9nLzIwMjYvNy8yNi9pc3JhZWwtcmFpZHMtd2VzdC1iYW5rLWxpdmUtZG96ZW5zLW9mLXBhbGVzdGluaWFucy1kZXRhaW5lZC1kdXJpbmctYXNzYXVsdD90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
-      "summary": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T07:55:30.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxUb3VyIGRlIEZyYW5jZSBmaW5hbCBzdGFnZSBzaG9ydGVuZWQgYXMgZW1lcmdlbmN5IHRlYW1zIHRhY2tsZSB3aWxkZmlyZXN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9zcG9ydHMvMjAyNi83LzI2L3RvdXItZGUtZnJhbmNlLWZpbmFsLXN0YWdlLXNob3J0ZW5lZC1hcy1lbWVyZ2VuY3ktdGVhbXMtdGFja2xlLXdpbGRmaXJlcz90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Tour de France final stage shortened as emergency teams tackle wildfires",
-      "summary": "Sunday’s traditional stage in Paris has been shortened to reduce pressure on emergency services tackling wildfires.",
-      "url": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-07-26T07:55:22.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fFNwZW5jZSBKciB0byByZXRpcmUgYWZ0ZXIgbG9zaW5nIGNvbWViYWNrIGZpZ2h0fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9ib3hpbmcvYXJ0aWNsZXMvY3owNTEzM2szbnhvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -237,15 +255,6 @@
       "publishedAt": "2026-07-26T01:30:00.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fEpvc2h1YSdzIGVtb3Rpb25hbCB3aW4gb3ZlciBQcmVuZ2EgaW4gcGljdHVyZXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2JveGluZy9hcnRpY2xlcy9jMTQxeDg4cDMwa28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Joshua's emotional win over Prenga in pictures",
-      "summary": "A pictorial view as Anthony Joshua beats Kristian Prenga in dramatic fashion in Saudi Arabia to tee up a super-fight with Tyson Fury.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c141x88p30ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-26T00:58:10.000Z"
-    },
-    {
       "id": "QkJDIEJ1c2luZXNzfFByaW1hcmsncyBuZXcgJ3N1cGVybWFya2V0IHRhY3RpYycgdG8gd29vIGN1c3RvbWVycyBpbiBvbmxpbmUgcHJpY2Ugd2FyfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M0ZzN4NGo4cGdybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
       "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
@@ -291,6 +300,15 @@
       "publishedAt": "2026-07-25T21:21:03.000Z"
     },
     {
+      "id": "QkJDIFNwb3J0fFJhdmluZHJhIHN0YXJzIGFzIFdlbHNoIEZpcmUgYmVhdCBNSSBMb25kb24gdG8gY29udGludWUgd2lubmluZyBzdGFydHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvY3JpY2tldC92aWRlb3MvYzkzNGwxeHA4anFvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Ravindra stars as Welsh Fire beat MI London to continue winning start",
+      "summary": "Rachin Ravindra's superb 98 from 44 balls helps Welsh Fire win their second game in a row in The Hundred, beating MI London by 15 runs.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c934l1xp8jqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-25T21:09:03.000Z"
+    },
+    {
       "id": "VGVjaENydW5jaHxXYXJuZXIgQnJvcy4gbGF3c3VpdCBhY2N1c2VzIEFtYXpvbiBvZiBpbGxlZ2FsbHkgcG9hY2hpbmcgZXhlY3V0aXZlc3xodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjYvMDcvMjUvd2FybmVyLWJyb3MtbGF3c3VpdC1hY2N1c2VzLWFtYXpvbi1vZi1pbGxlZ2FsbHktcG9hY2hpbmctZXhlY3V0aXZlcy8",
       "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
       "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
@@ -318,31 +336,13 @@
       "publishedAt": "2026-07-25T19:23:32.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fE5vcnJpcyBjYXV0aW91cyBkZXNwaXRlIHBvbGUgYXMgaXQgJ2ZhbGxzIGFwYXJ0JyBmb3IgSGFtaWx0b258aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvcm11bGExL2FydGljbGVzL2NtMmdkNmdkMzNnbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Norris cautious despite pole as it 'falls apart' for Hamilton",
-      "summary": "Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss",
+      "id": "QkJDIFNwb3J0fFVzeWsgY29uZmlybXMgbmV4dCBmaWdodCB3aWxsIGJlIGhpcyAnbGFzdCBkYW5jZSd8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2JveGluZy92aWRlb3MvY3ZnMHcwOTd2d3pvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Usyk confirms next fight will be his 'last dance'",
+      "summary": "Two-time undisputed World Champion Oleksandr Usyk reveals his plans for the future, confirming that his next fight will be his \"last dance\".",
+      "url": "https://www.bbc.co.uk/sport/boxing/videos/cvg0w097vwzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "sports",
-      "publishedAt": "2026-07-25T19:23:14.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEd5bW5hc3QgTGFuZ3RvbiBjbGVhcmVkIG9mIHNlcmlvdXMgaW5qdXJ5IGFmdGVyIHNob2NraW5nIGZhbGx8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2d5bW5hc3RpY3MvYXJ0aWNsZXMvYzBqbGd4N240MGVvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Gymnast Langton cleared of serious injury after shocking fall",
-      "summary": "English gymnast Gabriel Langton is cleared of serious injury after a sickening fall at the Commonwealth Games on Friday.",
-      "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c0jlgx7n40eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-25T19:09:26.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fFZvemluaGEgdG8gam9pbiBDaGlsZWFuIGNsdWIgYWZ0ZXIgV29ybGQgQ3VwIGhlcm9pY3N8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2NrZ2R6NW1yeGQxbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Vozinha to join Chilean club after World Cup heroics",
-      "summary": "Cape Verde goalkeeper Vozinha, who earned plaudits for his feats during the World Cup, is set to join Chilean side Colo Colo.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgdz5mrxd1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-25T18:31:44.000Z"
+      "publishedAt": "2026-07-25T19:14:06.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfEluZGlhJ3MgJ2NvY2tyb2FjaCcgcHJvdGVzdCBjYWxsZWQgb2ZmIGFmdGVyIGVkdWNhdGlvbiBtaW5pc3RlciBxdWl0c3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZHg4MjhnajV4a28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
@@ -354,6 +354,15 @@
       "publishedAt": "2026-07-25T17:44:46.000Z"
     },
     {
+      "id": "QkJDIFNwb3J0fEhvdyB0d28gJ3NlbnNhdGlvbmFsJyBmaWVsZGluZyBtb21lbnRzIHdpbiB0aGUgbWF0Y2ggZm9yIFN1bnJpc2Vyc3xodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvY3JpY2tldC92aWRlb3MvY2Q3bGVseDNuanFvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "How two 'sensational' fielding moments win the match for Sunrisers",
+      "summary": "Sunrisers Leeds players Matthew Revis and Abrar Ahmed produce two moments of brilliant fielding in the closing stages of their match against Southern Brave, saving eight runs, helping them secure a five-run win and their first win of this year's tournament.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cd7lelx3njqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-25T17:11:57.000Z"
+    },
+    {
       "id": "VGVjaENydW5jaHxLYWxzaGkgZGVtYW5kcyBOZXRmbGl4IHRha2UgZG93biB0cmFpbGVyIGZvciDigJhQcmVkaWN0aW9uIEdhbWVz4oCZIGRvY3VtZW50YXJ5fGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNi8wNy8yNS9rYWxzaGktZGVtYW5kcy1uZXRmbGl4LXRha2UtZG93bi10cmFpbGVyLWZvci1wcmVkaWN0aW9uLWdhbWVzLWRvY3VtZW50YXJ5Lw",
       "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
       "summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
@@ -363,24 +372,6 @@
       "publishedAt": "2026-07-25T16:46:46.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fFBhcmlzIGF3YWl0cyBhcyBQb2dhY2FyIHBvaXNlZCB0byBqb2luIFRvdXIgZ3JlYXRzIHdpdGggZmlmdGggdGl0bGV8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2N5Y2xpbmcvYXJ0aWNsZXMvYzFkMTQxZGwycXJvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
-      "summary": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-25T16:25:59.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEVuZ2xhbmQgcmVhZHkgZm9yICd3b3JsZCdzIGJlc3QnIEF1c3RyYWxpYSBhZnRlciB0aHJhc2hpbmcgTkl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L25ldGJhbGwvYXJ0aWNsZXMvY3B3OWQ5OGtrNHpvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "England ready for 'world's best' Australia after thrashing NI",
-      "summary": "England open their Commonwealth Games netball campaign with a comprehensive victory over Northern Ireland.",
-      "url": "https://www.bbc.co.uk/sport/netball/articles/cpw9d98kk4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-07-25T16:07:39.000Z"
-    },
-    {
       "id": "VGVjaENydW5jaHxMaWJyYXJpYW5zIGFyZSBob3N0aW5nIHZpcmFsIOKAmEF2b2lkaW5nIEFJ4oCZIHdvcmtzaG9wcyBmb3IgcGVvcGxlIHdobyBhcmUgZmVkIHVwIHdpdGggQmlnIFRlY2h8aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzI1L2xpYnJhcmlhbnMtYXJlLWhvc3RpbmctdmlyYWwtYXZvaWRpbmctYWktd29ya3Nob3BzLWZvci1wZW9wbGUtd2hvLWFyZS1mZWQtdXAtd2l0aC1iaWctdGVjaC8",
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
       "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
@@ -388,6 +379,15 @@
       "source": "TechCrunch",
       "category": "technology",
       "publishedAt": "2026-07-25T16:00:00.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fCdUaGUgZ2FtZSBoYXMgdHVybmVkIScgLSBSYXNoaWQgdGFrZXMgdGhyZWUgd2lja2V0cyBpbiBmaXZlIGJhbGxzfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jcmlja2V0L3ZpZGVvcy9ja2c0MThqMnI0am8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "'The game has turned!' - Rashid takes three wickets in five balls",
+      "summary": "Sunrisers Leeds fall from 111-0 to 112-3 as Adil Rashid takes three wickets in five balls to bring his Southern Brave side right back in the match in the men's Hundred.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/ckg418j2r4jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-07-25T15:43:46.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfFRydW1wIHRha2VzIHN3aXBlcyBhdCBwcmVzcyBkdXJpbmcgV2hpdGUgSG91c2UgQ29ycmVzcG9uZGVudHMnIERpbm5lcnxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jZDdsZTR5bGV2Mm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
@@ -741,10 +741,10 @@
       "publishedAt": "2026-07-22T11:40:11.000Z"
     },
     {
-      "id": "QkJDIFRlY2hub2xvZ3l8VGVjaCBMaWZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zb3VuZHMvcGxheS9saXZlOmJiY193b3JsZF9zZXJ2aWNlX3NvdXRoX2FzaWE_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "id": "QkJDIFRlY2hub2xvZ3l8VGVjaCBMaWZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zb3VuZHMvcGxheS93M2N0OGp5NT9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Tech Life",
       "summary": "Dogs have a great sense of smell. Now machines are being trained to sniff out odours.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy5?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "category": "technology",
       "publishedAt": "2026-07-21T20:00:00.000Z"
