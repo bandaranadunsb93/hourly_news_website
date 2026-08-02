@@ -1,7 +1,106 @@
 {
-  "updatedAt": "2026-08-02T14:36:53.402Z",
+  "updatedAt": "2026-08-02T15:53:41.324Z",
   "total": 86,
   "articles": [
+    {
+      "id": "QkJDIFdvcmxkfEF0IGxlYXN0IDEzIGtpbGxlZCBpbiBJc3JhZWxpIHN0cmlrZXMgb24gR2F6YSBhZnRlciBIYW1hcyBhZ3JlZSBkaXNhcm1hbWVudCBkZWFsfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N6amx2dmt6ajIwbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-02T15:50:59.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfFVrcmFpbmUgc2F5cyBtYWpvciBSdXNzaWFuIG9pbCByZWZpbmVyeSBhbmQgYWlyZmllbGQgaGl0LCBhcyBNb3Njb3cgcmVwb3J0cyBlaWdodCBkZWF0aHN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzk5OGdnNXBlMDlvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-02T15:48:00.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJc3JhZWxpIHNldHRsZXJzIHNob290IFBhbGVzdGluaWFuIGNoaWxkIGR1cmluZyBmYXJtIHJhaWR8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzgvMi9pc3JhZWxpLXNldHRsZXJzLXNob290LXBhbGVzdGluaWFuLWNoaWxkLWR1cmluZy1mYXJtLXJhaWQ_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Israeli settlers shoot Palestinian child during farm raid",
+      "summary": "CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-02T15:36:28.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxIb3cgdG8gZW5kIHRoZSDigJhIb3JtdXogd2Fy4oCZfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vb3BpbmlvbnMvMjAyNi84LzIvaG93LXRvLWVuZC10aGUtaG9ybXV6P3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "How to end the ‘Hormuz war’",
+      "summary": "The least bad option for the US is to let the MoU Article 5 play out.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-02T15:33:20.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fEZpbnVjYW5lIGNyZWF0ZXMgR2FtZXMgaGlzdG9yeSB3aXRoIGZvdXJ0aCBnb2xkfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jeWNsaW5nL2FydGljbGVzL2N5OG1ya3BkMjdsbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Finucane creates Games history with fourth gold",
+      "summary": "Welsh star Emma Finucane creates history by becoming the first sprint cyclist to win four track gold medals at the same Commonwealth Games.",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-02T15:27:52.000Z"
+    },
+    {
+      "id": "VGVjaENydW5jaHxUaGVzZSBBcHAgU3RvcmUgaGlkZGVuIGdlbXMgcHJvdmUgdGhlcmXigJlzIHN0aWxsIHJvb20gZm9yIGdyZWF0IHNvZnR3YXJlIGluIHRoZSBBSSBlcmF8aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA4LzAyL3RoZXNlLWFwcC1zdG9yZS1oaWRkZW4tZ2Vtcy1wcm92ZS10aGVyZXMtc3RpbGwtcm9vbS1mb3ItZ3JlYXQtc29mdHdhcmUtaW4tdGhlLWFpLWVyYS8",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "publishedAt": "2026-08-02T15:23:19.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfEhlbGljb3B0ZXJzIGZpZ2h0aW5nIEdyZWVjZSB3aWxkZmlyZXMgY29sbGlkZSBpbiBtaWQtYWlyfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MxNDE3NzEzdmU2bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Helicopters fighting Greece wildfires collide in mid-air",
+      "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-02T15:21:56.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxVa3JhaW5pYW4gZmFybWVycyB1c2UgdGVtcG9yYXJ5IHN0b3JhZ2UgdG8gcmV2aXZlIGdyYWluIGV4cG9ydHN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzgvMi91a3JhaW5pYW4tZmFybWVycy11c2UtdGVtcG9yYXJ5LXN0b3JhZ2UtdG8tcmV2aXZlLWdyYWluLWV4cG9ydHM_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Ukrainian farmers use temporary storage to revive grain exports",
+      "summary": "Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-02T15:14:26.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFRydW1wIGJlYXRzIFdpbHNvbiB0byBjbGluY2ggc2Vjb25kIFNoYW5naGFpIGNyb3dufGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9zbm9va2VyL2FydGljbGVzL2MyZWxqbnhtZDdubz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Trump beats Wilson to clinch second Shanghai crown",
+      "summary": "World number one Judd Trump beats Kyren Wilson 11-6 to win the Shanghai Masters for the second time.",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/c2eljnxmd7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-02T14:58:50.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxIZWF0d2F2ZSBmb3JjZXMgbnVjbGVhciBzaHV0ZG93biBpbiBIdW5nYXJ5fGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi84LzIvMDgtMDItMjAyNi1odW5nYXJ5LW51Y2xlYXItcGxhbnQtc3Y_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Heatwave forces nuclear shutdown in Hungary",
+      "summary": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-02T14:44:34.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxUYW5rcywgdHJvb3BzIGFuZCBzcGFjZXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL3RhbGstdG8tYWwtamF6ZWVyYS8yMDI2LzgvMi90YW5rcy10cm9vcHMtYW5kLXNwYWNlP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Tanks, troops and space",
+      "summary": "Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe's security strategy.",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-02T14:34:21.000Z"
+    },
     {
       "id": "QWwgSmF6ZWVyYXxDSUEgd2hpc3RsZWJsb3dlciBKb2huIEtpcmlha291IG9uIGFjY291bnRhYmlsaXR5IGFuZCBDSUHigJlzIGhpc3Rvcnl8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby91cGZyb250LzIwMjYvOC8yL2NpYS13aGlzdGxlYmxvd2VyLWpvaG4ta2lyaWFrb3Utb24tYWNjb3VudGFiaWxpdHktYW5kLWNpYXMtaGlzdG9yeT90cmFmZmljX3NvdXJjZT1yc3M",
       "title": "CIA whistleblower John Kiriakou on accountability and CIA’s history",
@@ -12,9 +111,9 @@
       "publishedAt": "2026-08-02T14:20:36.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxGaXJlZmlnaHRpbmcgaGVsaWNvcHRlcnMgY29sbGlkZSBuZWFyIEF0aGVucyBhcyBHcmVlY2UgYmF0dGxlcyB3aWxkZmlyZXN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8yL2ZpcmVmaWdodGluZy1oZWxpY29wdGVycy1jb2xsaWRlLW5lYXItYXRoZW5zLWFzLWdyZWVjZS1iYXR0bGVzLXdpbGRmaXJlcz90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Firefighting helicopters collide near Athens as Greece battles wildfires",
-      "summary": "Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.",
+      "id": "QWwgSmF6ZWVyYXxHcmVlayBmaXJlZmlnaHRpbmcgaGVsaWNvcHRlcnMgaW4gbWlkLWFpciBjb2xsaXNpb24sIGZvdXIgY3JldyBtaXNzaW5nfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzgvMi9maXJlZmlnaHRpbmctaGVsaWNvcHRlcnMtY29sbGlkZS1uZWFyLWF0aGVucy1hcy1ncmVlY2UtYmF0dGxlcy13aWxkZmlyZXM_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Greek firefighting helicopters in mid-air collision, four crew missing",
+      "summary": "Europe struggles with record-breaking summer heat as wildfires ravage Greece, France and Spain causing mass evacuations.",
       "url": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "world",
@@ -147,51 +246,6 @@
       "publishedAt": "2026-08-02T12:34:35.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxBdCBsZWFzdCBmaXZlIGRlYWQsIDQxIG1pc3NpbmcgYWZ0ZXIgZmVycnkgY2F0Y2hlcyBmaXJlIG9mZiBJbmRvbmVzaWF8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8yL2F0LWxlYXN0LWZpdmUtZGVhZC00MS1taXNzaW5nLWFmdGVyLWZlcnJ5LWNhdGNoZXMtZmlyZS1vZmYtaW5kb25lc2lhP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "At least five dead, 41 missing after ferry catches fire off Indonesia",
-      "summary": "The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.",
-      "url": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-02T12:33:29.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxXaHkgaGFzIEVVIGNhbGxlZCBhbiBlbWVyZ2VuY3kgbWVldGluZyBvbiBTcGFpbiBtaWdyYW50IHN1cmdlP3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzIvd2h5LWhhcy10aGUtZXUtY2FsbGVkLWFuLWVtZXJnZW5jeS1tZWV0aW5nLW9uLXNwYWluLW1pZ3JhbnRzLXN1cmdlP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Why has EU called an emergency meeting on Spain migrant surge?",
-      "summary": "In joint letter, 22 member states call for 'strengthening of external borders' after nearly 60,000 migrants enter Ceuta.",
-      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-02T12:32:51.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxTcGFuaXNoIENldXRhIHdpdG5lc3NlcyBhIGRlYWRseSDigJhnYW1l4oCZIGZvciBNb3JvY2NhbiBtaWdyYW50c3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL2ZlYXR1cmVzLzIwMjYvOC8yL3NwYW5pc2gtY2V1dGEtd2l0bmVzc2VzLWEtZGVhZGx5LWdhbWUtZm9yLW1vcm9jY2FuLW1pZ3JhbnRzP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Spanish Ceuta witnesses a deadly ‘game’ for Moroccan migrants",
-      "summary": "This weekend, thousands of Moroccans attempted to reach the Spanish North African enclave of Ceuta.",
-      "url": "https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-02T12:07:11.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxUaGUgQm9hcmQgb2YgUGVhY2UgaXMgYSBmYWlsZWQgYm9keSBhbmQgc2hvdWxkIGJlIGFiYW5kb25lZHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL29waW5pb25zLzIwMjYvOC8yL3RoZS1ib2FyZC1vZi1wZWFjZS1pcy1hLWZhaWxlZC1ib2R5LWFuZC1zaG91bGQtYmUtYWJhbmRvbmVkP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "The Board of Peace is a failed body and should be abandoned",
-      "summary": "The Palestinian issue should be returned to the UN framework and anchored again in international law.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/2/the-board-of-peace-is-a-failed-body-and-should-be-abandoned?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-02T12:06:31.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJc3JhZWzigJlzIGluZmx1ZW5jZSBpbmR1c3RyeSBpbiB0aGUgVVN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby90aGUtbGlzdGVuaW5nLXBvc3QvMjAyNi84LzIvaXNyYWVscy1pbmZsdWVuY2UtaW5kdXN0cnktaW4tdGhlLXVzP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Israel’s influence industry in the US",
-      "summary": "Abdul El-Sayed's hardline campaign exposes a party, a media ecosystem and a debate over Israel in the US.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/8/2/israels-influence-industry-in-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-02T12:02:04.000Z"
-    },
-    {
       "id": "QkJDIFdvcmxkfEZpdmUgZGVhZCwgNDEgbWlzc2luZywgYWZ0ZXIgSW5kb25lc2lhIGZlcnJ5IGNhdGNoZXMgZmlyZXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jNzRnMHdqdmxyeG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
       "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
@@ -237,24 +291,6 @@
       "publishedAt": "2026-08-02T10:11:26.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfEdpbmdlciBoYWlyIHBvcnRyYWl0cyBzaG93IHVuZXhwZWN0ZWQgJ2dvbGRlbiB0aHJlYWQnIGNvbm5lY3RpbmcgQW1lcmljYW5zfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NlOTdueXo0cnZtbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-02T07:58:51.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fE5ldyBib3NzIE1hcmVzY2EgaXMgcGVyZmVjdCBmb3IgTWFuIENpdHkgLSBHdmFyZGlvbHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvYzhybnkxMzBrenBvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "New boss Maresca is perfect for Man City - Gvardiol",
-      "summary": "New manager Enzo Maresca is a \"perfect one\" for Manchester City, says defender Josko Gvardiol.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8rny130kzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-02T06:01:41.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fCdGdXR1cmUgb2YgdG91cicgRWFsYSBiZWF0cyBPc2FrYSB0byByZWFjaCBXYXNoaW5ndG9uIGZpbmFsfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC90ZW5uaXMvYXJ0aWNsZXMvYzV5NmtycjFnazRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "'Future of tour' Eala beats Osaka to reach Washington final",
       "summary": "Alexandra Eala continues her strong season with an impressive victory over Naomi Osaka to reach the Washington Open final.",
@@ -282,15 +318,6 @@
       "publishedAt": "2026-08-02T00:29:55.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfFNvbGl0dWRlIGFzIGEgbmV3IGFzcGlyYXRpb25hbCBsaWZlc3R5bGU6ICdXZSBhcmUgbm90IGxvbmVseSd8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzV5NjNkdzJ4M3dvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-      "summary": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-01T23:56:19.000Z"
-    },
-    {
       "id": "QkJDIFdvcmxkfFlvdW5nIGd1bnMgZm9yIGhpcmUgLSB0aGUgdGVlbmFnZSBoaXRtZW4gcmVjcnVpdGVkIHRvIGtpbGwgYWNyb3NzIEV1cm9wZXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jenJqeWV2bXY2MW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
       "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
@@ -316,15 +343,6 @@
       "source": "BBC World",
       "category": "world",
       "publishedAt": "2026-08-01T22:57:55.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEVtb3Rpb25hbCBLZXJyIGRlbGl2ZXJzIG1vbWVudCBHbGFzZ293IDIwMjYgaGFzIHdhaXRlZCBmb3J8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2F0aGxldGljcy9hcnRpY2xlcy9ja2dlMzV5d2p2eW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for",
-      "summary": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-01T22:41:38.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfEEgYnJ1aXNpbmcgMjQgaG91cnMgLSB3aGF0IG5leHQgZm9yIEZpZmEgYW5kIHVuZGVyLXByZXNzdXJlIEluZmFudGlubz98aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2M5dzBkangyZzkybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
@@ -489,15 +507,6 @@
       "publishedAt": "2026-08-01T07:48:01.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfElzcmFlbGkgV2VzdCBCYW5rIHNldHRsZXIgdGVsbHMgQkJDIGF0dGFja3Mgb24gUGFsZXN0aW5pYW5zIGFyZSBqdXN0aWZpZWQgYXMgcmV2ZW5nZXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jNGc0ZGpnZHlrMm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-01T05:01:56.000Z"
-    },
-    {
       "id": "VGVjaENydW5jaHxPcGVuQUkgcmVwb3J0ZWRseSBmaW5kcyBldmlkZW5jZSB0aGF0IG1vcmUgb2YgaXRzIGFnZW50cyByYW4gYW1va3xodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjYvMDcvMzEvb3BlbmFpLXJlcG9ydGVkbHktZmluZHMtZXZpZGVuY2UtdGhhdC1tb3JlLW9mLWl0cy1hZ2VudHMtcmFuLWFtb2sv",
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -550,15 +559,6 @@
       "source": "TechCrunch",
       "category": "technology",
       "publishedAt": "2026-07-31T19:47:28.000Z"
-    },
-    {
-      "id": "VGVjaENydW5jaHxGcmVzaCBvZmYgaXRzIFdpeiBwYXlvdXQsIEluZGV4IFZlbnR1cmVzIHJhaXNlcyAkMkIgYWNyb3NzIHRocmVlIGZ1bmRzfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNi8wNy8zMS9mcmVzaC1vZmYtaXRzLXdpei1wYXlvdXQtaW5kZXgtdmVudHVyZXMtcmFpc2VzLTJiLWFjcm9zcy10aHJlZS1mdW5kcy8",
-      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-      "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
-      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "publishedAt": "2026-07-31T19:39:51.000Z"
     },
     {
       "id": "QkJDIEJ1c2luZXNzfEFJIGZpcm1zIG11c3QgYW5zd2VyIGZvciByb2d1ZSBib3RzLCBzYXlzIGJvc3Mgb2YgaGFja2VkIGNvbXBhbnl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3I3azQ5eGp6emVvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
