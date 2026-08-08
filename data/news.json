@@ -1,7 +1,88 @@
 {
-  "updatedAt": "2026-08-07T23:25:00.678Z",
+  "updatedAt": "2026-08-08T00:55:04.570Z",
   "total": 84,
   "articles": [
+    {
+      "id": "QWwgSmF6ZWVyYXxEZSBsYSBFc3ByaWVsbGEgc3dvcm4gaW4gYXMgQ29sb21iaWHigJlzIGxlYWRlciwgdm93cyBhcm1lZCBncm91cCBjcmFja2Rvd258aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC84L2RlLWxhLWVzcHJpZWxsYS1zd29ybi1pbi1hcy1jb2xvbWJpYS1sZWFkZXItdm93cy1jcmFja2Rvd24tb24tYXJtZWQtZ3JvdXBzP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
+      "summary": "New president, who replaces leftist Gustavo Petro, continues rightward political shift in Latin America.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-08T00:31:52.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxTdWRhbuKAmXMgd2FyIHRocmVhdGVucyBhbiDigJhlbnRpcmUgZ2VuZXJhdGlvbuKAmXPigJkgZnV0dXJlLCBVTiB3YXJuc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84Lzgvc3VkYW5zLXdhci10aHJlYXRlbnMtYW4tZW50aXJlLWdlbmVyYXRpb25zLWZ1dHVyZS11bi13YXJucz90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+      "summary": "War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-08T00:24:42.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxQdWVydG8gUmljbyByYXRpb25zIHdhdGVyIGFzIHNldmVyZSBkcm91Z2h0IGxlYXZlcyByZXNlcnZvaXJzIGRlcGxldGVkfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi84LzgvcHVlcnRvLXJpY28tcmF0aW9ucy13YXRlci1hcy1zZXZlcmUtZHJvdWdodC1sZWF2ZXMtcmVzZXJ2b2lycy1kZXBsZXRlZD90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
+      "summary": "Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-08T00:13:53.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxVUyBTZW5hdGUgcGFzc2VzIHN3ZWVwaW5nIFJ1c3NpYW4gZW5lcmd5IHNhbmN0aW9ucyBiaWxsIGFtaWQgVWtyYWluZSB3YXJ8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9lY29ub215LzIwMjYvOC84L3VzLXNlbmF0ZS1wYXNzZXMtc3dlZXBpbmctcnVzc2lhbi1lbmVyZ3ktc2FuY3Rpb25zLWJpbGwtYW1pZC11a3JhaW5lLXdhcj90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+      "summary": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-08T00:06:22.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJcmFuIHdhciBsaXZlOiBUcmlsYXRlcmFsIE1lY2NhIGRlZmVuY2UgcGFjdCBzaWduZWQsIGFzIEhvcm11eiBkZWFsIGxvb21zfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy9saXZlYmxvZy8yMDI2LzgvOC9pcmFuLXdhci1saXZlLXRyaWxhdGVyYWwtbWVjY2EtZGVmZW5jZS1wYWN0LXNpZ25lZC1hcy1ob3JtdXotZGVhbC1sb29tcz90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+      "summary": "Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-08T00:00:00.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxEb25hbGQgVHJ1bXAgcmVuZXdzIGVmZm9ydCB0byBmaXJlIEZlZGVyYWwgUmVzZXJ2ZSBnb3Zlcm5vciBMaXNhIENvb2t8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC83L2RvbmFsZC10cnVtcC1yZW5ld3MtZWZmb3J0LXRvLWZpcmUtZmVkZXJhbC1yZXNlcnZlLWdvdmVybm9yLWxpc2EtY29vaz90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
+      "summary": "US president has clashed with Federal Reserve members over his bid to rapidly slash interest rates despite inflation.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-07T23:40:16.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJQ0MgYm9keSB1cmdlcyBDaGFkIGFuZCBWZW5lenVlbGEgdG8gcmV2ZXJzZSBjb3Vyc2Ugb24gd2l0aGRyYXdhbHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzcvaWNjLWJvZHktdXJnZXMtY2hhZC1hbmQtdmVuZXp1ZWxhLXRvLXJldmVyc2UtY291cnNlLW9uLXdpdGhkcmF3YWw_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "ICC body urges Chad and Venezuela to reverse course on withdrawal",
+      "summary": "International court's oversight body warns exits threaten global justice, as US intensifies campaign against tribunal.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-07T23:34:50.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxXaWxsIFBha2lzdGFuLVNhdWRpLVR1cmtpeWUgYWxsaWFuY2UgYWN0dWFsbHkgY3JlYXRlIGEgbmV3IHJlZ2lvbmFsIG9yZGVyP3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzcvbmV3LXJlZ2lvbmFsLW9yZGVyLXBha2lzdGFuLXR1cmtpeWUtc2F1ZGktYXJhYmlhP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
+      "summary": "The Mecca Joint Defence Pact brings together countries that sit between Iran and Israel, but will it be effective?",
+      "url": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-07T23:18:14.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxNZWRpY3MgYW1vbmcgc2l4IFBhbGVzdGluaWFucyBpbmp1cmVkIGluIElzcmFlbGkgYXR0YWNrcyBhY3Jvc3MgV2VzdCBCYW5rfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzgvNy9tZWRpY3MtYW1vbmctc2l4LXBhbGVzdGluaWFucy1pbmp1cmVkLWluLWlzcmFlbGktYXR0YWNrcy1hY3Jvc3Mtd2VzdC1iYW5rP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
+      "summary": "Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.",
+      "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-07T23:15:01.000Z"
+    },
     {
       "id": "QkJDIFNwb3J0fExpdmVycG9vbCBjbG9zZSB0byBzaWduaW5nIEJhcmNlbG9uYSdzIEFyYXVqbyBvbiBsb2FufGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jNGd4dnZ4bGRld28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Liverpool close to signing Barcelona's Araujo on loan",
@@ -23,7 +104,7 @@
     {
       "id": "VGVjaENydW5jaHxPcGVuQUkgc2F5cyBpdCBzbG93ZWQgQXN0cmEgbW9kZWwgZGV2ZWxvcG1lbnQgb3ZlciBzZWN1cml0eSBjb25jZXJuc3xodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjYvMDgvMDcvb3BlbmFpLXNheXMtaXQtc2xvd2VkLWFzdHJhLW1vZGVsLWRldmVsb3BtZW50LW92ZXItc2VjdXJpdHktY29uY2VybnMv",
       "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch",
       "category": "technology",
@@ -84,9 +165,9 @@
       "publishedAt": "2026-08-07T21:30:11.000Z"
     },
     {
-      "id": "VGVjaENydW5jaHxXYWNvbeKAmXMgTW92aW5rcGFkIDExIGlzIGEgZnVuIGFuZCBtaWQtcHJpY2VkIGVudHJ5IHBvaW50IGZvciBkaWdpdGFsIGFydGlzdHN8aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA4LzA3L3dhY29tcy1tb3ZpbmtwYWQtMTEtaXMtYS1mdW4tYW5kLW1pZC1wcmljZWQtZW50cnktcG9pbnQtZm9yLWRpZ2l0YWwtYXJ0aXN0cy8",
-      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
-      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "id": "VGVjaENydW5jaHxXYWNvbeKAmXMgTW92aW5rUGFkIDExIGlzIGEgZnVuLCBtaWRwcmljZWQgZW50cnkgcG9pbnQgZm9yIGRpZ2l0YWwgYXJ0aXN0c3xodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjYvMDgvMDcvd2Fjb21zLW1vdmlua3BhZC0xMS1pcy1hLWZ1bi1hbmQtbWlkLXByaWNlZC1lbnRyeS1wb2ludC1mb3ItZGlnaXRhbC1hcnRpc3RzLw",
+      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
       "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
       "source": "TechCrunch",
       "category": "technology",
@@ -192,42 +273,6 @@
       "publishedAt": "2026-08-07T20:39:26.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxVUyBhcHBlYWxzIGNvdXJ0IHVwaG9sZHMgaW5qdW5jdGlvbiBwYXVzaW5nIFRydW1w4oCZcyBXaGl0ZSBIb3VzZSBiYWxscm9vbXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzcvdXMtYXBwZWFscy1jb3VydC11cGhvbGRzLWluanVuY3Rpb24tcGF1c2luZy10cnVtcHMtd2hpdGUtaG91c2UtYmFsbHJvb20_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-      "summary": "The two-judge majority underscored that the president needed congressional authority to move forward with his plans.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T20:27:56.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxDb250YW1pbmF0ZWQgd2F0ZXIgcHV0dGluZyBHYXphIGZhbWlsaWVzIGF0IHJpc2t8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzgvNy9jb250YW1pbmF0ZWQtd2F0ZXItcHV0dGluZy1nYXphLWZhbWlsaWVzLWF0LXJpc2s_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Contaminated water putting Gaza families at risk",
-      "summary": "Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T19:47:42.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxEUiBDb25nbyByZWxlYXNlcyAxNSBwcmlzb25lcnMgdG8gTTIzIHJlYmVscyBhcyBwYXJ0IG9mIERvaGEgcGVhY2UgcHJvY2Vzc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzcvZHItY29uZ28tcmVsZWFzZXMtMTUtcHJpc29uZXJzLXRvLW0yMy1yZWJlbHMtYXMtcGFydC1vZi1kb2hhLXBlYWNlLXByb2Nlc3M_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
-      "summary": "ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T19:21:01.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxTZXZlcmFsIGtpbGxlZCBpbiBhdHRhY2tzIG9uIFVrcmFpbmUgYXMgS3lpdiBoaXRzIFJ1c3NpYW4gZS1jb21tZXJjZSBnaWFudHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84Lzcvc2V2ZXJhbC1raWxsZWQtaW4tYXR0YWNrcy1vbi11a3JhaW5lLWFzLWt5aXYtaGl0cy1ydXNzaWFuLWUtY29tbWVyY2UtZ2lhbnQ_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-      "summary": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T18:54:55.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fEZsaW50b2ZmIGxlYXZlcyBFbmdsYW5kIExpb25zIGhlYWQgY29hY2ggcm9sZXxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvY3JpY2tldC9hcnRpY2xlcy9jcHc5bnZ6a3hleG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Flintoff leaves England Lions head coach role",
       "summary": "Former England all-rounder Andrew Flintoff steps down as head coach of England Lions.",
@@ -235,15 +280,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "publishedAt": "2026-08-07T18:06:59.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJbnNpZGUgdGhlIHJlc3VsdHM6IEhvdyByZWRpc3RyaWN0aW5nIHNoYXBlZCBUZW5uZXNzZWXigJlzIHByaW1hcnkgZWxlY3Rpb258aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC83L2luc2lkZS10aGUtcmVzdWx0cy1ob3ctcmVkaXN0cmljdGluZy1zaGFwZWQtdGVubmVzc2Vlcy1wcmltYXJ5LWVsZWN0aW9uP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
-      "summary": "Tennessee's party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T18:00:05.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fFBvbGl0aWNpYW5zLCBwcml2YXRlIGpldHMgYW5kIHBvd2VyIC0gdGhlIGxpZmUgb2YgYSBGaWZhIHByZXNpZGVudHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvY3gycnAwbjlweWRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -264,15 +300,6 @@
       "publishedAt": "2026-08-07T17:42:54.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxOZXcgRGVsaGkgb24gcmVkIGFsZXJ0IGFzIGhlYXZ5IHJhaW5zIHBvdW5kIHRoZSBjaXR5fGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi84LzcvbmV3LWRlbGhpLW9uLXJlZC1hbGVydC1hcy1oZWF2eS1yYWlucy1wb3VuZC10aGUtY2l0eT90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "New Delhi on red alert as heavy rains pound the city",
-      "summary": "Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T17:19:06.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fE5pZXdpYWRvbWEtUGhpbm5leSB3aW5zIG9uIFZlbnRvdXggdG8gdGFrZSBUb3VyIGxlYWR8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2N5Y2xpbmcvYXJ0aWNsZXMvY3I1OTdxdjE2MzRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "Niewiadoma-Phinney wins on Ventoux to take Tour lead",
       "summary": "Katarzyna Niewiadoma-Phinney produces a thrilling solo ride to the summit of Mont Ventoux to claim her first Tour de France Femmes stage win and the overall race lead.",
@@ -282,15 +309,6 @@
       "publishedAt": "2026-08-07T17:11:42.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxNZWRpdGVycmFuZWFuIHNtdWdnbGluZyBuZXR3b3JrIOKAmGRpc21hbnRsZWTigJkgaW4gU3BhaW4tbGVkIHJhaWQsIDc4IGFycmVzdGVkfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzgvNy9tZWRpdGVycmFuZWFuLXNtdWdnbGluZy1uZXR3b3JrLWRpc21hbnRsZWQtaW4tc3BhaW4tbGVkLXJhaWQtNzgtYXJyZXN0ZWQ_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
-      "summary": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
-      "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T17:07:29.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fCdDcml0aWNhbGx5IGltcG9ydGFudCcgc3VtbWl0IGNhbGxlZCBvbiBmdXR1cmUgb2YgU2NvdHRpc2ggZm9vdGJhbGx8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2NnbGo4MTN6OXJybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "'Critically important' summit called on future of Scottish football",
       "summary": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
@@ -298,24 +316,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "publishedAt": "2026-08-07T17:06:48.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxIdW4gTWFuZXQgaXMgcmVmaW5pbmcgQ2FtYm9kaWHigJlzIGF1dGhvcml0YXJpYW4gbW9kZWx8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9vcGluaW9ucy8yMDI2LzgvNy9odW4tbWFuZXQtaXMtcmVmaW5pbmctY2FtYm9kaWFzLWF1dGhvcml0YXJpYW4tbW9kZWw_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Hun Manet is refining Cambodia’s authoritarian model",
-      "summary": "The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T16:47:33.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxXYXIgb24gSXJhbjogU2F1ZGkgQXJhYmlhLCBUdXJraXllIGFuZCBQYWtpc3RhbiBzaWduIGRlZmVuY2UgcGFjdHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvOC83L3dhci1vbi1pcmFuLXNhdWRpLWFyYWJpYS10dXJraXllLWFuZC1wYWtpc3Rhbi1zaWduLWRlZmVuY2UtcGFjdD90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-      "summary": "Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-07T16:42:35.000Z"
     },
     {
       "id": "VGVjaENydW5jaHxDbG91ZGZsYXJlIGxhdW5jaGVzIEtpdGVzdXJmLCBhIGJyb3dzZXIgYnVpbHQgZm9yIEFJIGFnZW50c3xodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjYvMDgvMDcvY2xvdWRmbGFyZS1sYXVuY2hlcy1raXRlc3VyZi1hLWJyb3dzZXItYnVpbHQtZm9yLWFpLWFnZW50cy8",
@@ -437,7 +437,7 @@
     {
       "id": "VGVjaENydW5jaHxTcGFjZVjigJlzIFRlcmFmYWIgd2lsbCByZWx5IG9uIG5hdHVyYWwgZ2FzIHBvd2VyIHBsYW50cywgbm90IFRlc2xhIHNvbGFyIHBhbmVsc3xodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjYvMDgvMDcvc3BhY2V4cy10ZXJhZmFiLXdpbGwtcmVseS1vbi1uYXR1cmFsLWdhcy1wb3dlci1wbGFudHMtbm90LXRlc2xhLXNvbGFyLXBhbmVscy8",
       "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+      "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
       "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
       "source": "TechCrunch",
       "category": "technology",
