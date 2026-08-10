@@ -1,7 +1,97 @@
 {
-  "updatedAt": "2026-08-10T22:26:39.123Z",
+  "updatedAt": "2026-08-10T23:25:32.588Z",
   "total": 88,
   "articles": [
+    {
+      "id": "VGVjaENydW5jaHxKZWZmIEJlem9zIG1pZ2h0IGZpbmFsbHkgZ2V0IGhpcyBoYW5kcyBvbiBhIHNwb3J0cyB0ZWFtfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNi8wOC8xMC9qZWZmLWJlem9zLW1pZ2h0LWZpbmFsbHktZ2V0LWhpcy1oYW5kcy1vbi1hLXNwb3J0cy10ZWFtLw",
+      "title": "Jeff Bezos might finally get his hands on a sports team",
+      "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+      "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "publishedAt": "2026-08-10T23:16:44.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fENhcnJpbmd0b24gdGVsbHMgY3JpdGljcyB0byBkbyAncmVzZWFyY2gnIG92ZXIgJ3doaXRlIHByaXZpbGVnZScgcG9zdHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvYmFza2V0YmFsbC9hcnRpY2xlcy9jbHlxeGxuM3JycG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Carrington tells critics to do 'research' over 'white privilege' post",
+      "summary": "Chicago Sky guard DiJonai Carrington has told her critics to do their \"research\" amid the ongoing furore from her on-court confrontation with Indiana Fever's Sophie Cunningham.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/clyqxln3rrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-10T23:12:25.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfFRydW1wIHNpZ25zIG9yZGVyIHRvIGxpbWl0IGNoaWxkaG9vZCB2YWNjaW5lcyBhbmQgc3BsaXQgTU1SIHNob3RzfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NlM3E1dmw1ODF3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-10T23:03:52.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fEdCJ3MgSHVudCBjb21lcyBvZiBhZ2Ugd2l0aCBFdXJvcGVhbiAxMDBtIGdvbGR8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2F0aGxldGljcy9hcnRpY2xlcy9jNjI5bHhkeDg4d28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "GB's Hunt comes of age with European 100m gold",
+      "summary": "Britain's Amy Hunt has her \"coming of age\" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-10T22:51:36.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxNb21lbnQgb2YgdGVycm9yIGFzIHBvd2VyZnVsIGVhcnRocXVha2Ugc2hha2VzIGFpcnBvcnQgaW4gQ29sb21iaWF8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzgvMTAvbW9tZW50LW9mLXRlcnJvci1hcy1wb3dlcmZ1bC1lYXJ0aHF1YWtlLXNoYWtlcy1haXJwb3J0LWluLWNvbG9tYmlhP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
+      "summary": "Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-10T22:46:32.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxDZXV0YSBtYXlvciBjYWxscyBmb3IgbWlncmFudCBkZXRlbnRpb24gYW1pZCBtYXNzIGluZmx1eCBjcmlzaXN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8xMC9jZXV0YS1tYXlvci1jYWxscy1mb3ItbWlncmFudC1kZXRlbnRpb24tYW1pZC1tYXNzLWluZmx1eC1jcmlzaXM_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Ceuta mayor calls for migrant detention amid mass influx crisis",
+      "summary": "Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-10T22:41:03.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxBbCBKYXplZXJhIHJlcG9ydGVyIG9uIHRoZSBncm91bmQgYXMgQ29sb21iaWEgcXVha2UgZGVhdGggdG9sbCByaXNlc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvOC8xMC8wOC0xMS0yMDI2LWNvbG9tYmlhLWFsZXNzYW5kcm8tcmFtcGlldHRpLW1wND90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+      "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-10T22:35:48.000Z"
+    },
+    {
+      "id": "QkJDIEJ1c2luZXNzfE52aWRpYSBnZXRzICQ1MDBibiBmcm9tIG1ham9yIGJhbmtzIHRvIGRldmVsb3AgQUkgZGF0YSBjZW50cmVzfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M3OGdyMGp2MG1kbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "business",
+      "publishedAt": "2026-08-10T22:31:42.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fEJyaXRhaW4ncyBIdW50IHNwcmludHMgdG8gRXVyb3BlYW4gMTAwbSBnb2xkfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hdGhsZXRpY3MvdmlkZW9zL2NuOG5kNHcwd2w3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Britain's Hunt sprints to European 100m gold",
+      "summary": "Great Britain's Amy Hunt wins her first major gold medal with victory in the 100m at the European Athletics Championships in Birmingham.",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cn8nd4w0wl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-10T22:30:30.000Z"
+    },
+    {
+      "id": "VGVjaENydW5jaHxOb3cgUmlwcGxpbmcgaXMgY291bnRlci1zdWluZyB0aW55IHN0YXJ0dXAgUnVubGF5ZXJ8aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA4LzEwL25vdy1yaXBwbGluZy1pcy1jb3VudGVyLXN1aW5nLXRpbnktc3RhcnR1cC1ydW5sYXllci8",
+      "title": "Now Rippling is counter-suing tiny startup Runlayer",
+      "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+      "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "publishedAt": "2026-08-10T22:26:54.000Z"
+    },
     {
       "id": "QkJDIFNwb3J0fEl0J3MgZm9vdGJhbGwsIG5vdCBQbGF5U3RhdGlvbiAtIFVlZmEgcmVmcycgY2hpZWYgb24gVkFSfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jdmc5MG4zZHZkNW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "It's football, not PlayStation - Uefa refs' chief on VAR",
@@ -30,15 +120,6 @@
       "publishedAt": "2026-08-10T21:48:23.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fEdCJ3MgSHVudCB3aW5zIEV1cm9wZWFuIDEwMG0gZ29sZHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvYXRobGV0aWNzL2FydGljbGVzL2M2MjlseGR4ODh3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "GB's Hunt wins European 100m gold",
-      "summary": "Great Britain's Amy Hunt claims her first senior international title by powering to 100m gold at the European Athletics Championships in Birmingham.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-10T21:47:29.000Z"
-    },
-    {
       "id": "QkJDIEJ1c2luZXNzfENvdW5jaWxzIHRvIGdldCBtb3JlIHBvd2VycyB0byBzdG9wIHZhcGUgYW5kIGJldHRpbmcgc2hvcHMsIFBNIGFubm91bmNlc3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jdmc5MGVsOTIzNm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Councils to get more powers to stop vape and betting shops, PM announces",
       "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
@@ -46,15 +127,6 @@
       "source": "BBC Business",
       "category": "business",
       "publishedAt": "2026-08-10T21:33:51.000Z"
-    },
-    {
-      "id": "QkJDIFdvcmxkfFRydW1wIHNpZ25zIG9yZGVyIHRvIGxpbWl0IGNoaWxkaG9vZCB2YWNjaW5lcyBhbmQgc3BsaXQgTU1SIHNob3RzfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NlM3E1dmw1ODF3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-10T21:33:25.000Z"
     },
     {
       "id": "QWwgSmF6ZWVyYXxFdXJvcGUgYnJhY2VzIGZvciBhbm90aGVyIGhlYXR3YXZlIGFmdGVyIHJlY29yZC1icmVha2luZyB0ZW1wZXJhdHVyZXN8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8xMC9ldXJvcGUtYnJhY2VzLWZvci1hbm90aGVyLWhlYXR3YXZlLWFmdGVyLXJlY29yZC1icmVha2luZy10ZW1wZXJhdHVyZXM_dHJhZmZpY19zb3VyY2U9cnNz",
@@ -127,15 +199,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "publishedAt": "2026-08-10T21:02:06.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fFZhbiBkZSBWZW4gc2lnbnMgbmV3IGxvbmctdGVybSBkZWFsIHdpdGggU3B1cnN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2M0ZzM2Mm4xZTI4bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Van de Ven signs new long-term deal with Spurs",
-      "summary": "Tottenham defender Micky van de Ven says it is \"clear the direction the club wants to go in\" after signing a new long-term deal with Spurs.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g362n1e28o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-10T20:59:50.000Z"
     },
     {
       "id": "QWwgSmF6ZWVyYXxUcnVtcCB0byBkZW1hbmQgY29tcGVuc2F0aW9uIGZvciBUZWhyYW7igJlzIOKAmGNvbmZsaWN0c-KAmXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvOC8xMC90cnVtcC10by1kZW1hbmQtY29tcGVuc2F0aW9uLWZvci10ZWhyYW5zP3RyYWZmaWNfc291cmNlPXJzcw",
@@ -253,33 +316,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "publishedAt": "2026-08-10T18:51:02.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxMZWJhbm9uIOKAmGZpbGVzIG5ldyBsYXdzdWl0IGFnYWluc3TigJkgZXgtY2VudHJhbCBiYW5rIGNoaWVmIFJpYWQgU2FsYW1laHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzEwL2xlYmFub24tZmlsZXMtbmV3LWxhd3N1aXQtYWdhaW5zdC1leC1jZW50cmFsLWJhbmstY2hpZWYtcmlhZC1zYWxhbWVoP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
-      "summary": "Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.",
-      "url": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-10T18:37:07.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxOZXRhbnlhaHXigJlzIHZldG8gYW5kIHRoZSBsaW1pdHMgb2YgQW1lcmljYW4gcG93ZXJ8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9vcGluaW9ucy8yMDI2LzgvMTAvbmV0YW55YWh1cy12ZXRvLWFuZC10aGUtbGltaXRzLW9mLWFtZXJpY2FuLXBvd2VyP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Netanyahu’s veto and the limits of American power",
-      "summary": "Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-10T18:35:31.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJcmFuIGhpZXJhcmNoeSBjb25zb2xpZGF0aW9uIGFzIElSR0MgdmV0ZXJhbiB0YXBwZWQgZm9yIGtleSBzZWN1cml0eSByb2xlfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzgvMTAvaXJhbi1oaWVyYXJjaHktY29uc29saWRhdGlvbi1hcy1pcmdjLXZldGVyYW4tdGFwcGVkLWZvci1rZXktc2VjdXJpdHktcm9sZT90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-      "summary": "The office of the supreme leader has named a new security chief and established war commanders in influential roles.",
-      "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-10T18:34:25.000Z"
     },
     {
       "id": "VGVjaENydW5jaHxBcHRvaWRlIGJlY29tZXMgdGhlIGZpcnN0IHJpdmFsIGFwcCBzdG9yZSB0byByZXR1cm4gdG8gR29vZ2xlIFBsYXkgaW4gdGhlIFVTfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNi8wOC8xMC9hcHRvaWRlLWJlY29tZXMtdGhlLWZpcnN0LXJpdmFsLWFwcC1zdG9yZS10by1yZXR1cm4tdG8tZ29vZ2xlLXBsYXktaW4tdGhlLXVzLw",
@@ -507,15 +543,6 @@
       "publishedAt": "2026-08-10T12:00:00.000Z"
     },
     {
-      "id": "VGVjaENydW5jaHxHb29nbGUgUGxheSBhZGRzIFZlbm1vIGFzIGEgcGF5bWVudCBvcHRpb258aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA4LzEwL2dvb2dsZS1wbGF5LWFkZHMtdmVubW8tYXMtYS1wYXltZW50LW9wdGlvbi8",
-      "title": "Google Play adds Venmo as a payment option",
-      "summary": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
-      "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
       "id": "QkJDIFdvcmxkfFdvcmxkJ3Mgb2NlYW5zIGhpdCByZWNvcmQtaGlnaCBKdWx5IHRlbXBlcmF0dXJlc3xodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jcHZ3OHZtbWdyd28_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "World's oceans hit record-high July temperatures",
       "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
@@ -577,15 +604,6 @@
       "source": "BBC World",
       "category": "world",
       "publishedAt": "2026-08-09T23:05:29.000Z"
-    },
-    {
-      "id": "VGVjaENydW5jaHxFbWJhdHRsZWQgaGVkZ2UgZnVuZCBTaXR1YXRpb25hbCBBd2FyZW5lc3MgaW52ZXN0cyAkNDAwTSBpbiBjaGlwIHN0YXJ0dXAgU291cmNlIEZvdW5kcnl8aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA4LzA5L2VtYmF0dGxlZC1oZWRnZS1mdW5kLXNpdHVhdGlvbmFsLWF3YXJlbmVzcy1pbnZlc3RzLTQwMG0taW4tY2hpcC1zdGFydHVwLXNvdXJjZS1mb3VuZHJ5Lw",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "summary": "The AI-focused hedge fund is still making some big bets.",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "publishedAt": "2026-08-09T20:35:17.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfEhvdyBhIHNjaG9vbHRlYWNoZXIncyBzb24gYmVjYW1lIEthc2htaXIncyBmaXJzdCBJbmRpYSBUZXN0IGNyaWNrZXRlcnxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMmVscGtnMWwwam8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
@@ -678,15 +696,6 @@
       "publishedAt": "2026-08-06T23:04:40.000Z"
     },
     {
-      "id": "QkJDIEJ1c2luZXNzfEFyZ29zIGlzIGdldHRpbmcgYSBtYWtlb3ZlciAtIGJ1dCBjYW4gaXQgYXR0cmFjdCBuZXcgc2hvcHBlcnM_fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MybHF2d2V3Z3Aybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Argos is getting a makeover - but can it attract new shoppers?",
-      "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "business",
-      "publishedAt": "2026-08-06T23:03:48.000Z"
-    },
-    {
       "id": "QkJDIFRlY2hub2xvZ3l8Rmlyc3QgT3BlbkFJLCBub3cgTWV0YSAtIHdoeSBkbyBBSSBoYWNrcyBrZWVwIGhhcHBlbmluZz98aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3AzMDk4OWVlMXdvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
       "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
@@ -775,15 +784,6 @@
       "source": "BBC Technology",
       "category": "technology",
       "publishedAt": "2026-08-04T10:22:40.000Z"
-    },
-    {
-      "id": "QkJDIFRlY2hub2xvZ3l8VG9rZW5vbWljczogV2h5IG1ha2luZyBBSSBwYXkgaXMgdHJpY2t5fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M4NzJyNTJ4N2pnbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "publishedAt": "2026-08-03T23:21:10.000Z"
     },
     {
       "id": "QkJDIFRlY2hub2xvZ3l8VGVjaCBMaWZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zb3VuZHMvcGxheS93M2N0OGp5Nj9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
