@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-08-12T23:30:33.076Z",
-  "total": 86,
+  "updatedAt": "2026-08-13T01:07:26.624Z",
+  "total": 87,
   "articles": [
+    {
+      "id": "QkJDIFdvcmxkfFRyYXZpcyBLZWxjZSBzaGFyZXMgZmlyc3QgZGV0YWlscyBmcm9tIGhpcyB3ZWRkaW5nIHRvIFRheWxvciBTd2lmdCAtICdCZXN0IG5pZ2h0IG9mIG15IGxpZmUnfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N4MnIxNzllMjMybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-13T01:01:51.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxIYWxmIGEgdG9ubmUgb2YgRXJsaW5nIEhhYWxhbmQgYnJhbmRlZCBjb2NhaW5lIHNlaXplZCBpbiBFY3VhZG9yfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi84LzEzL2FqZS1vbmwtbmZfZXJsaW5nLWhhYWxhbmQtYnJhbmRlZC1jb2NhaW5lLXNlaXplZC1pbi1lY3VhZG9yLTEyMDgyNj90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+      "summary": "Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-13T00:05:28.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxJcmFuIHdhciBsaXZlOiBVUywgVGVocmFuIGV4Y2hhbmdlIG9wcG9zaW5nIGNsYWltcyBvdmVyIEhvcm11eiBjb250cm9sfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy9saXZlYmxvZy8yMDI2LzgvMTMvaXJhbi13YXItbGl2ZS11cy1hbmQtaXJhbi1leGNoYW5nZS1vcHBvc2luZy1jbGFpbXMtb3Zlci1ob3JtdXotY29udHJvbD90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+      "summary": "President Trump again insists US has 'total control' of strait, while Tehran resolute that the US must meet its demands.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxUcnVtcCBhZG1pbmlzdHJhdGlvbiBhcnJlc3RzIFNvdXRoZXJuIFBvdmVydHkgTGF3IENlbnRlciBleHBlcnQgZm9yIGZyYXVkfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzgvMTIvdHJ1bXAtYWRtaW5pc3RyYXRpb24tYXJyZXN0cy1zb3V0aGVybi1wb3ZlcnR5LWxhdy1jZW50ZXItZXhwZXJ0LWZvci1mcmF1ZD90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+      "summary": "Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.",
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-12T23:23:14.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxNZWRpYSBncm91cHMgc3VlIFRydW1wIG92ZXIgcGFpZCBhY2Nlc3MgdG8gcHVibGljIHNvY2lhbCBtZWRpYSBwb3N0c3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL2Vjb25vbXkvMjAyNi84LzEyL21lZGlhLWdyb3Vwcy1zdWUtdHJ1bXAtb3Zlci1wYWlkLWFjY2Vzcy10by1wdWJsaWMtc29jaWFsLW1lZGlhLXBvc3RzP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Media groups sue Trump over paid access to public social media posts",
+      "summary": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.",
+      "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-12T23:23:00.000Z"
+    },
     {
       "id": "QkJDIFdvcmxkfE1lbWJlcnMgb2YgVHJ1bXAncyBjYWJpbmV0IHJlbWFpbmVkIG9uIGRlY295IHBsYW5lLCBhZnRlciBwcmVzaWRlbnQncyBxdWlldCBleGl0fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M0ZzMwNmVsbjh3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
@@ -12,6 +57,15 @@
       "publishedAt": "2026-08-12T23:19:57.000Z"
     },
     {
+      "id": "QkJDIFdvcmxkfFZ1bHR1cmVzIGFyZSBkaXNhcHBlYXJpbmcgaW4gTmlnZXJpYSAtIGJ1dCB0aGUgJ1Z1bHR1cmUgS2luZycgaXMgZmlnaHRpbmcgdG8gcmV2ZXJzZSB0aGUgdHJlbmR8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3gyNTZwcDMzbDNvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-12T23:19:28.000Z"
+    },
+    {
       "id": "QkJDIFNwb3J0fEZlYXJsZXNzIE1hZGpvLCAxNywgZW5kcyBlaWdodC1tb250aCB3YWl0IHdpdGggZHJlYW0gVmlsbGEgZGVidXR8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2NnNGRwMjN6NXo3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Fearless Madjo, 17, ends eight-month wait with dream Villa debut",
       "summary": "Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive games.",
@@ -19,15 +73,6 @@
       "source": "BBC Sport",
       "category": "sports",
       "publishedAt": "2026-08-12T23:16:57.000Z"
-    },
-    {
-      "id": "QkJDIFdvcmxkfFRyYXZpcyBLZWxjZSBzaGFyZXMgZmlyc3QgZGV0YWlscyBmcm9tIGhpcyB3ZWRkaW5nIHRvIFRheWxvciBTd2lmdCAtICdCZXN0IG5pZ2h0IG9mIG15IGxpZmUnfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2N4MnIxNzllMjMybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-12T23:11:35.000Z"
     },
     {
       "id": "QkJDIEJ1c2luZXNzfFdoeSBKYXBhbmVzZSBmaXJtcyBhcmUgYmVpbmcgc28gc2xvdyB0byB1c2UgQUl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3d5bXc0NDM0djdvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -291,33 +336,6 @@
       "publishedAt": "2026-08-12T20:32:58.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxJc3JhZWwgdm93cyB0byBrZWVwIHRyb29wcyBpbiBMZWJhbm9uLCBHYXphIGFuZCBTeXJpYXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvOC8xMi9pc3JhZWwtdm93cy10by1rZWVwLXRyb29wcy1pbi1sZWJhbm9uLWdhemEtYW5kLXN5cmlhP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-      "summary": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-12T20:26:07.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxQaG90b3M6IFNvbGFyIGVjbGlwc2UgcGx1bmdlcyBwYXJ0cyBvZiBFdXJvcGUgaW50byBkYXJrbmVzc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL2dhbGxlcnkvMjAyNi84LzEyL3Bob3Rvcy1zb2xhci1lY2xpcHNlLXBsdW5nZXMtcGFydHMtb2YtZXVyb3BlLWludG8tZGFya25lc3M_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Photos: Solar eclipse plunges parts of Europe into darkness",
-      "summary": "A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.",
-      "url": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-12T20:16:10.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXzigJhQbGF0Zm9ybWljaWRl4oCZIG9mIFBhbGVzdGluZTogQWN0aXZpc3RzIHN0cnVnZ2xlIHRvIGJlIGhlYXJkIG9uIE1ldGF8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8xMi9wbGF0Zm9ybWljaWRlLW9mLXBhbGVzdGluZS1hY3RpdmlzdHMtc3RydWdnbGUtdG8tYmUtaGVhcmQtb24tbWV0YT90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-      "summary": "Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.",
-      "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-12T20:15:38.000Z"
-    },
-    {
       "id": "VGVjaENydW5jaHxBbWF6b24gd2lsbCB0cmFpbiBvbiBUd2l0Y2ggc3RyZWFtZXJz4oCZIGNvbnRlbnQgYnkgZGVmYXVsdCwgdW5sZXNzIHRoZXkgb3B0IG91dHxodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjYvMDgvMTIvYW1hem9uLXdpbGwtdHJhaW4tb24tdHdpdGNoLXN0cmVhbWVycy1jb250ZW50LWJ5LWRlZmF1bHQtdW5sZXNzLXRoZXktb3B0LW91dC8",
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
       "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
@@ -325,15 +343,6 @@
       "source": "TechCrunch",
       "category": "technology",
       "publishedAt": "2026-08-12T20:10:40.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxUcnVtcCByZXZlYWxzIEthcm9saW5lIExlYXZpdHQgdG8gc3RlcCBkb3duIGFzIFdoaXRlIEhvdXNlIHByZXNzIHNlY3JldGFyeXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzEyL3RydW1wLXJldmVhbHMta2Fyb2xpbmUtbGVhdml0dC10by1zdGVwLWRvd24tYXMtd2hpdGUtaG91c2UtcHJlc3Mtc2VjcmV0YXJ5P3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Trump reveals Karoline Leavitt to step down as White House press secretary",
-      "summary": "Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.",
-      "url": "https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-12T20:05:01.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fFNvbGFyIGVjbGlwc2UgZGlzdHJhY3RzIGZyb20gc3BvcnRpbmcgZXZlbnRzIC0gaW4gcGljdHVyZXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2FydGljbGVzL2N4MmwxOXdqejB4bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
@@ -489,12 +498,12 @@
       "publishedAt": "2026-08-12T16:14:08.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfExBIExha2VycyB0byBiZSBzb2xkIGluIHJlY29yZCAkMTIuNWJuIGRlYWx8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Jhc2tldGJhbGwvYXJ0aWNsZXMvYzA0azJkbjQyMnhvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "id": "QkJDIFNwb3J0fExBIExha2VycyB0byBiZSBzb2xkIGluIHJlY29yZCAkMTIuNWJuIGRlYWx8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Jhc2tldGJhbGwvYXJ0aWNsZXMvYzA0azJkbjQyMnhvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "LA Lakers to be sold in record $12.5bn deal",
       "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
       "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
+      "source": "BBC Sport",
+      "category": "sports",
       "publishedAt": "2026-08-12T16:11:04.000Z"
     },
     {
