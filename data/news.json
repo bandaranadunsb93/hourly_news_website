@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-08-17T06:34:02.593Z",
-  "total": 86,
+  "updatedAt": "2026-08-17T07:43:23.136Z",
+  "total": 87,
   "articles": [
+    {
+      "id": "QkJDIFdvcmxkfFVrcmFpbmlhbiBzdHJpa2VzIGtpbGwgc2l4IGluIFJ1c3NpYSwgYWN0aW5nIGdvdmVybm9yIHNheXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY243bjRsbTExdnJvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-17T07:41:24.000Z"
+    },
+    {
+      "id": "QkJDIEJ1c2luZXNzfENoYW5naW5nIHB1YnMgaW50byBob21lcyB0byBiZSBtYWRlIGhhcmRlciB1bmRlciBuZXcgcnVsZXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2x5bGxnMXYwa2RvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Changing pubs into homes to be made harder under new rules",
+      "summary": "The rules will come into force on Monday along with other changes to planning policy.",
+      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "business",
+      "publishedAt": "2026-08-17T07:04:21.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fCdBcmUgeW91IG5vdCBlbnRlcnRhaW5lZD8nIC0gSHVudCBlbnRlcnMgc3RhcmRvbSB3aXRoIGljb25pYyBxdWFkcnVwbGV8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2F0aGxldGljcy9hcnRpY2xlcy9jbHlxcXhncmRxcW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
+      "summary": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-17T07:02:43.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFN0YXRzIHRoYXQgc2hvdyBQcmVtaWVyIExlYWd1ZSBpcyBnZXR0aW5nIG1vcmUgY29tcGV0aXRpdmV8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2M0Z2RkanBqbTQ5bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Stats that show Premier League is getting more competitive",
+      "summary": "Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gddjpjm49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-17T06:41:27.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fER1dGNoIEdQIGluIHBpY3R1cmVzIGFzIEYxIHByZXBhcmVzIGZvciBaYW5kdm9vcnQgZmFyZXdlbGx8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvcm11bGExL2FydGljbGVzL2MwbDU4ODAyMjcwbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
+      "summary": "A selection of images from the Dutch Grand Prix, as Zandvoort prepares to host a Formula 1 race for the final time.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-17T06:31:36.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxSb2RyaSBoZWFkZWQgdG8gQmFyY2Vsb25hIGFmdGVyIE1hbiBDaXR5IGFjY2VwdHMgdHJhbnNmZXIgYmlkfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjYvOC8xNy9yb2RyaS1oZWFkZWQtdG8tYmFyY2Vsb25hLWFmdGVyLW1hbi1jaXR5LWFjY2VwdHMtdHJhbnNmZXItYmlkP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
+      "summary": "Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.",
+      "url": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-17T06:28:05.000Z"
+    },
     {
       "id": "QkJDIFdvcmxkfFRydW1wIHNheXMgVVMgdG8gcmVkdWNlIG1pbGl0YXJ5IGRyaWxscyB3aXRoIFNvdXRoIEtvcmVhIGFmdGVyIGl0IHN0YXllZCBvdXQgb2YgSXJhbiB3YXJ8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3gybGxsN3p2bjBvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -48,31 +102,22 @@
       "publishedAt": "2026-08-17T06:04:20.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxDYW1lcm9vbiBkb21pbmF0ZXMgTWFsYXdpIHRvIHdpbiBmaXJzdCBXb21lbuKAmXMgQWZyaWNhIEN1cCBvZiBOYXRpb25zIHRpdGxlfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjYvOC8xNy9jYW1lcm9vbi1kb21pbmF0ZXMtbWFsYXdpLXRvLXdpbi1maXJzdC13b21lbnMtYWZyaWNhLWN1cC1vZi1uYXRpb25zLXRpdGxlP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Cameroon dominates Malawi to win first Women’s Africa Cup of Nations title",
-      "summary": "The Indomitable Lionesses outshine their opponents to claim a first final victory on their fourth attempt in Morocco.",
+      "id": "QWwgSmF6ZWVyYXxDYW1lcm9vbiBkb21pbmF0ZSBNYWxhd2kgdG8gd2luIGZpcnN0IFdvbWVu4oCZcyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMgdGl0bGV8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9zcG9ydHMvMjAyNi84LzE3L2NhbWVyb29uLWRvbWluYXRlcy1tYWxhd2ktdG8td2luLWZpcnN0LXdvbWVucy1hZnJpY2EtY3VwLW9mLW5hdGlvbnMtdGl0bGU_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
+      "summary": "The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.",
       "url": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "world",
       "publishedAt": "2026-08-17T06:02:02.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfEF1c3NpZSBydWxlcyBmb290eSBwbGF5ZXJzIHJlZmVycmVkIHRvIHBvbGljZSBhcyBkZXRlY3RpdmVzIGludmVzdGlnYXRlIHNleHVhbCBhc3NhdWx0fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NnNGRkNDIwZXpsbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
-      "summary": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
+      "id": "QkJDIFdvcmxkfEF1c3NpZSBydWxlcyBmb290eSBwbGF5ZXJzIHVuZGVyIGludmVzdGlnYXRpb24gYXMgcG9saWNlIHByb2JlIHNleHVhbCBhc3NhdWx0IGNsYWltfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NnNGRkNDIwZXpsbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+      "summary": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
       "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "publishedAt": "2026-08-17T05:46:45.000Z"
-    },
-    {
-      "id": "QkJDIFdvcmxkfFVrcmFpbmlhbiBzdHJpa2VzIGtpbGwgc2l4IGluIFJ1c3NpYSwgYWN0aW5nIGdvdmVybm9yIHNheXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY243bjRsbTExdnJvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-17T05:38:13.000Z"
     },
     {
       "id": "QWwgSmF6ZWVyYXxBdCBsZWFzdCBzZXZlbiBkZWFkIGluIOKAmHN0YW1wZWRlLWxpa2XigJkgaW5jaWRlbnQgYXQgSW5kaWEgdGVtcGxlfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzgvMTcvYXQtbGVhc3Qtc2l4LWRlYWQtaW4tc3RhbXBlZGUtbGlrZS1pbmNpZGVudC1hdC1pbmRpYS10ZW1wbGU_dHJhZmZpY19zb3VyY2U9cnNz",
@@ -246,15 +291,6 @@
       "publishedAt": "2026-08-17T00:05:34.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxJcmFuIHdhciBsaXZlOiBUZWhyYW4tVVMgTW9VIHNldCB0byBleHBpcmU7IEhhbWFz4oCZcyBhbC1LaGF5eWEgbWVldHMgS3VzaG5lcnxodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvbGl2ZWJsb2cvMjAyNi84LzE3L2lyYW4td2FyLWxpdmUtdGVocmFuLXVzLW1vdS1zZXQtdG8tZXhwaXJlLWhhbWFzcy1hbC1raGF5eWEtbWVldHMta3VzaG5lcj90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
-      "summary": "Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-17T00:00:35.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fE1jSWxyb3kgYWRtaXRzIGNvbmNlcm5zIGFzIFNjaGVmZmxlciByZWdhaW5zIHdpbm5pbmcgZmVlbGluZyBhdCBTdCBKdWRlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9nb2xmL2FydGljbGVzL2NyZTQ0cjF5MTdubz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "McIlroy admits concerns as Scheffler regains winning feeling at St Jude",
       "summary": "Rory McIlroy says \"he felt lost\" as he toils to a 66th-place finish - 25 strokes behind champion Scottie Scheffler - at the St Jude Championship in Memphis.",
@@ -327,15 +363,6 @@
       "publishedAt": "2026-08-16T20:25:07.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fFN1cGVyIEdpYW50cyBzdXJ2aXZlIGxhdGUgd29iYmxlIHRvIHdpbiBtZW4ncyBIdW5kcmVkfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jcmlja2V0L2FydGljbGVzL2MyZGtrMmowODZsbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Super Giants survive late wobble to win men's Hundred",
-      "summary": "Trent Rockets fail in their bid to become the first team to win both Hundred trophies in the same year, as they are beaten by Manchester Super Giants in the men's final.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2dkk2j086lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-16T20:22:18.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fEhpc3RvcnkgZm9yIEh1bnQgYW5kIEFzaGVyLVNtaXRoIGluIGdvbGRlbiBmaW5pc2ggZm9yIEdCfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9hdGhsZXRpY3MvYXJ0aWNsZXMvYzMwNDQ0ZG1xZTBvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "History for Hunt and Asher-Smith in golden finish for GB",
       "summary": "Amy Hunt and Dina Asher-Smith make history while Georgia Hunter Bell claims a commanding 1500m gold as Great Britain finish strongly at the European Championships.",
@@ -352,15 +379,6 @@
       "source": "BBC World",
       "category": "world",
       "publishedAt": "2026-08-16T19:50:36.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEh1bnQgd2lucyBmb3VydGggZ29sZCBhcyBHQiBzdG9ybSB0byBtaXhlZCA0eDEwMG0gcmVsYXkgdmljdG9yeXxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvYXRobGV0aWNzL3ZpZGVvcy9jcjU5OWpnNWRxMm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Hunt wins fourth gold as GB storm to mixed 4x100m relay victory",
-      "summary": "Jeremiah Azu, Dina-Asher Smith, Zharnel Hughes and Amy Hunt combine to win gold for Great Britain in the first mixed 4x100m relay at the European Athletics Championships.",
-      "url": "https://www.bbc.co.uk/sport/athletics/videos/cr599jg5dq2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-16T19:45:20.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fE5pZ2h0bWFyZSBNYW4gQ2l0eSBzdGFydCBmb3IgTWFyZXNjYSAtIGFyZSBBcnNlbmFsIHJlYWxseSBzbyBmYXIgYWhlYWQ_fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jNXk0NDlrd3ExNG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
@@ -390,15 +408,6 @@
       "publishedAt": "2026-08-16T19:00:23.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fE9saXZlaXJhIGRlZGljYXRlcyBQb3J0dWdhbCBzdGFnZSB3aW4gdG8gVGFybGluZyBmYW1pbHl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2N5Y2xpbmcvYXJ0aWNsZXMvY3kwNzcyMHo5NG5vP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Oliveira dedicates Portugal stage win to Tarling family",
-      "summary": "Rui Oliveira wins the final stage of the Volta a Portugal in his home city of Porto before dedicating the win to Finlay Tarling's family.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cy07720z94no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-16T17:59:03.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fFJhbmdlcnMgaG9zdCBDZWx0aWMgaW4gTGVhZ3VlIEN1cCBxdWFydGVyLWZpbmFsc3xodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvY2x5ampwMGs1cmRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "Rangers host Celtic in League Cup quarter-finals",
       "summary": "Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
@@ -424,15 +433,6 @@
       "source": "TechCrunch",
       "category": "technology",
       "publishedAt": "2026-08-16T16:04:00.000Z"
-    },
-    {
-      "id": "QkJDIEJ1c2luZXNzfENoYW5naW5nIHB1YnMgaW50byBob21lcyB0byBiZSBtYWRlIGhhcmRlciB1bmRlciBuZXcgcnVsZXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2x5bGxnMXYwa2RvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Changing pubs into homes to be made harder under new rules",
-      "summary": "The rules will come into force on Monday along with other changes to planning policy.",
-      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "business",
-      "publishedAt": "2026-08-16T15:04:13.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfEZvdXIgJ2V4dHJhb3JkaW5hcnknIFJlbmFpc3NhbmNlIHBhaW50aW5ncyBzdG9sZW4gZnJvbSBJdGFsaWFuIG11c2V1bXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jcWp4eDJnemQ5cW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
@@ -766,6 +766,15 @@
       "source": "BBC Technology",
       "category": "technology",
       "publishedAt": "2026-08-11T12:09:26.000Z"
+    },
+    {
+      "id": "QkJDIFRlY2hub2xvZ3l8V2FsbCBTdHJlZXQgZ2lhbnRzIGhhbmQgTnZpZGlhICQ1MDBibiB0byBmdW5kIGJvb20gaW4gQUkgcHJvamVjdHN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzc4Z3IwanYwbWRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "publishedAt": "2026-08-11T08:44:52.000Z"
     },
     {
       "id": "QkJDIFRlY2hub2xvZ3l8VGVjaCBMaWZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zb3VuZHMvcGxheS93M2N0OGp5Nz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
