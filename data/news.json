@@ -1,24 +1,96 @@
 {
-  "updatedAt": "2026-08-17T05:26:29.293Z",
-  "total": 85,
+  "updatedAt": "2026-08-17T06:34:02.593Z",
+  "total": 86,
   "articles": [
+    {
+      "id": "QkJDIFdvcmxkfFRydW1wIHNheXMgVVMgdG8gcmVkdWNlIG1pbGl0YXJ5IGRyaWxscyB3aXRoIFNvdXRoIEtvcmVhIGFmdGVyIGl0IHN0YXllZCBvdXQgb2YgSXJhbiB3YXJ8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3gybGxsN3p2bjBvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-17T06:24:31.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fER1YmxpbiBEb25zPyBUaGUgZmFpbGVkIGF0dGVtcHQgdG8gYnJpbmcgYSBQcmVtaWVyIExlYWd1ZSBjbHViIHRvIElyZWxhbmR8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2FydGljbGVzL2MwNXEwM3Y4bnJubz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Dublin Dons? The failed attempt to bring a Premier League club to Ireland",
+      "summary": "Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c05q03v8nrno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-17T06:19:22.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxKYXBhbuKAmXMgZWNvbm9teSBzbG93cywgbWlzc2luZyBncm93dGggZm9yZWNhc3RzfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZWNvbm9teS8yMDI2LzgvMTcvamFwYW5zLWVjb25vbXktc2xvd3MtbWlzc2luZy1ncm93dGgtZm9yZWNhc3RzP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Japan’s economy slows, missing growth forecasts",
+      "summary": "GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.",
+      "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-17T06:14:39.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fFdobyBhbSBJPyBHdWVzcyBQcmVtaWVyIExlYWd1ZSBzdGFyIE5vIDI4fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jMjBkN3d6NGU3cG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Who am I? Guess Premier League star No 28",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20d7wz4e7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-17T06:10:48.000Z"
+    },
+    {
+      "id": "QkJDIFNwb3J0fEZpdmUgaW4gRml2ZTogRm9vdGJhbGwgcXVpeiBObyAxfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jbHlxNzQ5cXdsNW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Five in Five: Football quiz No 1",
+      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq749qwl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-17T06:04:20.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxDYW1lcm9vbiBkb21pbmF0ZXMgTWFsYXdpIHRvIHdpbiBmaXJzdCBXb21lbuKAmXMgQWZyaWNhIEN1cCBvZiBOYXRpb25zIHRpdGxlfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjYvOC8xNy9jYW1lcm9vbi1kb21pbmF0ZXMtbWFsYXdpLXRvLXdpbi1maXJzdC13b21lbnMtYWZyaWNhLWN1cC1vZi1uYXRpb25zLXRpdGxlP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Cameroon dominates Malawi to win first Women’s Africa Cup of Nations title",
+      "summary": "The Indomitable Lionesses outshine their opponents to claim a first final victory on their fourth attempt in Morocco.",
+      "url": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-17T06:02:02.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfEF1c3NpZSBydWxlcyBmb290eSBwbGF5ZXJzIHJlZmVycmVkIHRvIHBvbGljZSBhcyBkZXRlY3RpdmVzIGludmVzdGlnYXRlIHNleHVhbCBhc3NhdWx0fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NnNGRkNDIwZXpsbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+      "summary": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-17T05:46:45.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfFVrcmFpbmlhbiBzdHJpa2VzIGtpbGwgc2l4IGluIFJ1c3NpYSwgYWN0aW5nIGdvdmVybm9yIHNheXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY243bjRsbTExdnJvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-17T05:38:13.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxBdCBsZWFzdCBzZXZlbiBkZWFkIGluIOKAmHN0YW1wZWRlLWxpa2XigJkgaW5jaWRlbnQgYXQgSW5kaWEgdGVtcGxlfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzgvMTcvYXQtbGVhc3Qtc2l4LWRlYWQtaW4tc3RhbXBlZGUtbGlrZS1pbmNpZGVudC1hdC1pbmRpYS10ZW1wbGU_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "At least seven dead in ‘stampede-like’ incident at India temple",
+      "summary": "The fatal incident reportedly took place amid a rush of devotees at a temple in India's Bihar state.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-17T05:32:33.000Z"
+    },
     {
       "id": "QWwgSmF6ZWVyYXxJcmFu4oCZcyB0b3AgbmVnb3RpYXRvciBkZWNsYXJlcyB2aWN0b3J5IGluIHdhciBhZ2FpbnN0IHRoZSBVUyBhbmQgSXNyYWVsfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi84LzE3L2lyYW5zLXRvcC1uZWdvdGlhdG9yLWRlY2xhcmVzLXZpY3RvcnktaW4td2FyLWFnYWluc3QtdGhlLXVzLWFuZC1pc3JhZWw_dHJhZmZpY19zb3VyY2U9cnNz",
       "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-      "summary": "Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.",
+      "summary": "Iran’s Parliament speaker and negotiator Mohammad Bagher Ghalibaf has declared both a military and political victory",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "world",
       "publishedAt": "2026-08-17T05:16:18.000Z"
-    },
-    {
-      "id": "QkJDIFdvcmxkfEhlcm9lcyBhY3RyZXNzIEhheWRlbiBQYW5ldHRpZXJlIGRpZXMgYWdlZCAzNnxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jcTU2NjV6Z2cxcG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Heroes actress Hayden Panettiere dies aged 36",
-      "summary": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-17T05:15:46.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fEJyb29rIG9uIFRlc3QgY2FwdGFpbmN5LCBiYXR0aW5nIGFuZCBXZWxsaW5ndG9ufGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9jcmlja2V0L2FydGljbGVzL2N3eWVlMTUyeGVxbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
@@ -30,18 +102,9 @@
       "publishedAt": "2026-08-17T05:15:45.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfFRydW1wIHNheXMgVVMgdG8gc2NhbGUgYmFjayBTb3V0aCBLb3JlYSBtaWxpdGFyeSBkcmlsbHMgYWZ0ZXIgaXQgc3RheWVkIG91dCBvZiBJcmFuIHdhcnxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jeDJsbGw3enZuMG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-17T05:06:47.000Z"
-    },
-    {
       "id": "QkJDIEJ1c2luZXNzfElmIE1ldGEgbG9zZXMgdGhpcyB0cmlhbCwgSW5zdGFncmFtIGFuZCBGYWNlYm9vayBjb3VsZCBjaGFuZ2UgZm9yZXZlcnxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jbHlxcHg2eGs2OW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-      "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
       "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "business",
@@ -84,15 +147,6 @@
       "publishedAt": "2026-08-17T04:34:09.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfEF1c3NpZSBydWxlcyBmb290eSBwbGF5ZXJzIHJlZmVycmVkIHRvIHBvbGljZSBhcyBkZXRlY3RpdmVzIGludmVzdGlnYXRlIHNleHVhbCBhc3NhdWx0fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NnNGRkNDIwZXpsbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
-      "summary": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-17T04:30:15.000Z"
-    },
-    {
       "id": "QWwgSmF6ZWVyYXxUaGlldmVzIHN0ZWFsIFJlbmFpc3NhbmNlIGFydHdvcmtzIGluIG11c2V1bSBoZWlzdCBkdXJpbmcgSXRhbGlhbiBob2xpZGF5fGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI2LzgvMTcvdGhpZXZlcy1zdGVhbC1yZW5haXNzYW5jZS1hcnR3b3Jrcy1pbi1tdXNldW0taGVpc3QtZHVyaW5nLWl0YWxpYW4taG9saWRheT90cmFmZmljX3NvdXJjZT1yc3M",
       "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
       "summary": "As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.",
@@ -129,8 +183,8 @@
       "publishedAt": "2026-08-17T02:27:39.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfEZlcnJhcmkncyBmaXJzdCBldmVyIGVsZWN0cmljIGNhciBzb2xkIGZvciByZWNvcmQgJDQwbSBhdCBhdWN0aW9ufGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M3N2dncGdycDJkbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "id": "QkJDIFdvcmxkfEZlcnJhcmkncyBmaXJzdCBldmVyIGVsZWN0cmljIGNhciBzb2xkIGZvciByZWNvcmQgJDQwbXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jNzdnZ3BncnAyZG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Ferrari's first ever electric car sold for record $40m",
       "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
       "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -201,24 +255,6 @@
       "publishedAt": "2026-08-17T00:00:35.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxVTuKAmXMgQWxiYW5lc2U6IElzcmFlbCBvdXRzb3VyY2luZyBjb2VyY2lvbiB0byBzZXR0bGVycyBpbiBXZXN0IEJhbmt8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzgvMTYvdW5zLWFsYmFuZXNlLWlzcmFlbC1vdXRzb3VyY2luZy1jb2VyY2lvbi10by1zZXR0bGVycy1pbi13ZXN0LWJhbms_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
-      "summary": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-16T23:58:45.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxJc3JhZWxpIG1pbmlzdGVyIGNhbGxzIGZvciBraWxsaW5nIOKAmTMwIHRvIDQw4oCyIFBhbGVzdGluaWFucyBpbiBHYXphIG5pZ2h0bHl8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8xNi9pc3JhZWxpLW1pbmlzdGVyLWNhbGxzLWZvci1raWxsaW5nLTMwLXRvLTQwLXBhbGVzdGluaWFucy1pbi1nYXphLW5pZ2h0bHk_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
-      "summary": "Far-right National Security Minister Ben-Gvir sits on Israel's security cabinet, which helps shape war and policy.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-16T23:58:34.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fE1jSWxyb3kgYWRtaXRzIGNvbmNlcm5zIGFzIFNjaGVmZmxlciByZWdhaW5zIHdpbm5pbmcgZmVlbGluZyBhdCBTdCBKdWRlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9nb2xmL2FydGljbGVzL2NyZTQ0cjF5MTdubz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "McIlroy admits concerns as Scheffler regains winning feeling at St Jude",
       "summary": "Rory McIlroy says \"he felt lost\" as he toils to a 66th-place finish - 25 strokes behind champion Scottie Scheffler - at the St Jude Championship in Memphis.",
@@ -226,6 +262,15 @@
       "source": "BBC Sport",
       "category": "sports",
       "publishedAt": "2026-08-16T23:15:12.000Z"
+    },
+    {
+      "id": "QkJDIEJ1c2luZXNzfEhvdyBzd2l0Y2hpbmcgeW91ciBiYW5rIGFjY291bnQgY291bGQgZWFybiB5b3UgdXAgdG8gwqMyMjB8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvYzV5M2V4OHJ5ODJvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "How switching your bank account could earn you up to £220",
+      "summary": "New research suggests staying put is costing British savers billions in missed interest every year.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "business",
+      "publishedAt": "2026-08-16T23:14:47.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fEVuZ2xpc2htYW4gV2hhbGV5IHdpbnMgVVMgQW1hdGV1ciB0aXRsZXxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZ29sZi9hcnRpY2xlcy9jMTcxMTE4OXEycm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
@@ -237,15 +282,6 @@
       "publishedAt": "2026-08-16T22:05:54.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxXaGF0IGNvdWxkIHN0b3AgSXNyYWVsaSBzZXR0bGVyIGF0dGFja3Mgb24gUGFsZXN0aW5pYW5zP3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL2luc2lkZS1zdG9yeS8yMDI2LzgvMTYvd2hhdC1jb3VsZC1zdG9wLWlzcmFlbGktc2V0dGxlci1hdHRhY2tzLW9uLXBhbGVzdGluaWFucz90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "What could stop Israeli settler attacks on Palestinians?",
-      "summary": "Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-16T21:54:58.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fFdoYXQgaGFzIGJlZW4gdGhlIGltcGFjdCBvZiBuZXcgb3duZXJzIG9uIFRoZSBIdW5kcmVkP3xodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvY3JpY2tldC9hcnRpY2xlcy9jeTRra25ucHl2dm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "What has been the impact of new owners on The Hundred?",
       "summary": "BBC Sport looks at the impact new owners have had on The Hundred as the first season since private stakes were sold in teams ends.",
@@ -255,13 +291,13 @@
       "publishedAt": "2026-08-16T21:43:22.000Z"
     },
     {
-      "id": "QkJDIFNwb3J0fE1hcnRpbmV6IEp1dmVudHVzIG1vdmUgbm93IG9mZiAtIE1vbmRheSdzIGdvc3NpcHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvYzRna2s3cjJyNHlvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Martinez Juventus move now off - Monday's gossip",
-      "summary": "Juventus pull out of move for Emiliano Martinez, Manchester City face competition for Pedro Neto and Real Madrid want Martin Zubimendi, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-16T21:24:43.000Z"
+      "id": "QkJDIFdvcmxkfFVTIGNvbW1hbmRlciBzYXlzIG1lbnRhbCBoZWFsdGggYSAncHJpb3JpdHknIG9uIFVTUyBMaW5jb2xufGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NlcWVlZW5kejQybz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
+      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-16T21:04:27.000Z"
     },
     {
       "id": "VGVjaENydW5jaHxTdHJpcGUgd2lsbCByZXBvcnRlZGx5IGFjcXVpcmUgQUkgZ2F0ZXdheSBzdGFydHVwIE9wZW5Sb3V0ZXIgZm9yICQ3Qit8aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA4LzE2L3N0cmlwZS13aWxsLXJlcG9ydGVkbHktYWNxdWlyZS1haS1nYXRld2F5LXN0YXJ0dXAtb3BlbnJvdXRlci1mb3ItN2Iv",
@@ -345,15 +381,6 @@
       "publishedAt": "2026-08-16T19:37:45.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfFJ1c3NpYSBzYXlzIGF0IGxlYXN0IHNldmVuIGtpbGxlZCBpbiBsYXJnZXN0IFVrcmFpbmlhbiBhdHRhY2sgb2YgMjAyNnxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMTQxMXBnamU4eG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-16T19:03:04.000Z"
-    },
-    {
       "id": "QkJDIFdvcmxkfFRlZW4gc3VzcGVjdCBpbiBWaXJnaW5pYSBjYW1wdXMgc2hvb3RpbmcgZm91bmQgaGlkaW5nIGluIGNsb3NldHxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMGw1NTgzOTAzeW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Teen suspect in Virginia campus shooting found hiding in closet",
       "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
@@ -361,15 +388,6 @@
       "source": "BBC World",
       "category": "world",
       "publishedAt": "2026-08-16T19:00:23.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fEZveGVzIGJlYXQgTm90dHMgdG8gcmVhY2ggT25lLURheSBDdXAgZmluYWx8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2NyaWNrZXQvYXJ0aWNsZXMvY2Rld3c2ajg1Z3JvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "Foxes beat Notts to reach One-Day Cup final",
-      "summary": "Leicestershire reach a second One-Day Cup final in four years as they overcome Notts Outlaws by 23 runs in their semi-final at Grace Road.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cdeww6j85gro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-16T18:45:00.000Z"
     },
     {
       "id": "QkJDIFNwb3J0fE9saXZlaXJhIGRlZGljYXRlcyBQb3J0dWdhbCBzdGFnZSB3aW4gdG8gVGFybGluZyBmYW1pbHl8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL3Nwb3J0L2N5Y2xpbmcvYXJ0aWNsZXMvY3kwNzcyMHo5NG5vP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
@@ -397,15 +415,6 @@
       "source": "TechCrunch",
       "category": "technology",
       "publishedAt": "2026-08-16T16:53:51.000Z"
-    },
-    {
-      "id": "QkJDIFNwb3J0fCdQcm9iYWJseSBteSBsYXN0IHllYXInIC0gUm9uYWxkbyBoaW50cyBhdCByZXRpcmVtZW50fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9mb290YmFsbC9hcnRpY2xlcy9jMzMwMGx4ano3bG8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
-      "title": "'Probably my last year' - Ronaldo hints at retirement",
-      "summary": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "sports",
-      "publishedAt": "2026-08-16T16:33:16.000Z"
     },
     {
       "id": "VGVjaENydW5jaHxUZWNoQ3J1bmNoIE1vYmlsaXR5OiBUaGUgc2hpZnRpbmcgZmxpZ2h0IHBhdGggb2YgZWxlY3RyaWMgYWlyIHRheGlzfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNi8wOC8xNi90ZWNoY3J1bmNoLW1vYmlsaXR5LXRoZS1zaGlmdGluZy1mbGlnaHQtcGF0aC1vZi1lbGVjdHJpYy1haXItdGF4aXMv",
@@ -687,12 +696,12 @@
       "publishedAt": "2026-08-13T13:38:30.000Z"
     },
     {
-      "id": "QkJDIEJ1c2luZXNzfEZsb2NrIGJvc3MgYWRtaXRzIHN1cnZlaWxsYW5jZSBmaXJtIHRvb2sgdG9vIGxvbmcgdG8gYWN0IG92ZXIgcG9saWNlIGFidXNlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NycnYxcmp3Z2w5bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "id": "QkJDIFRlY2hub2xvZ3l8RmxvY2sgYm9zcyBhZG1pdHMgc3VydmVpbGxhbmNlIGZpcm0gdG9vayB0b28gbG9uZyB0byBhY3Qgb3ZlciBwb2xpY2UgYWJ1c2V8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3JydjFyandnbDlvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "Flock boss admits surveillance firm took too long to act over police abuse",
       "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
       "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "business",
+      "source": "BBC Technology",
+      "category": "technology",
       "publishedAt": "2026-08-13T13:02:24.000Z"
     },
     {
