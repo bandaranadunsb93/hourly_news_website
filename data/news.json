@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-19T04:27:22.691Z",
+  "updatedAt": "2026-08-19T05:20:19.147Z",
   "total": 85,
   "articles": [
+    {
+      "id": "QkJDIFdvcmxkfFNhY2tlZCBVa3JhaW5pYW4gZGVmZW5jZSBtaW5pc3RlciBjYWxscyBmb3IgcHJlc2lkZW50aWFsIGVsZWN0aW9ufGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NkZXc4bjllcmx3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-19T04:44:41.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxBdHRhY2tlcnMgZ28g4oCYaG91c2UgdG8gaG91c2XigJkga2lsbGluZyAyNSB2aWxsYWdlcnMgaW4gY2VudHJhbCBOaWdlcmlhfGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vdmlkZW8vbmV3c2ZlZWQvMjAyNi84LzE5L2F0dGFja2Vycy1nby1ob3VzZS10by1ob3VzZS1raWxsaW5nLTI1LXZpbGxhZ2Vycy1pbi1jZW50cmFsLW5pZ2VyaWE_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+      "summary": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-19T04:25:26.000Z"
+    },
     {
       "id": "QkJDIFdvcmxkfFRydW1wIHBhdXNlcyBuZXcgdGFyaWZmcyBvbiBDYW5hZGEgYW5kIHNheXMgY291bnRyaWVzIGNsb3NlIHRvIGEgZGVhbHxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jeTl3ejc5emUyOW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
       "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
@@ -32,7 +50,7 @@
     {
       "id": "QkJDIFdvcmxkfFNvdXRoIEtvcmVhIHNob3J0ZW5zIHdhciBnYW1lcyB3aXRoIFVTLCBjaXRpbmcgV2FzaGluZ3RvbiByZXF1ZXN0fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2Nudm4wajMxcWo4bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "South Korea shortens war games with US, citing Washington request",
-      "summary": "It comes after Trump announced plans to curtail joint exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
@@ -127,15 +145,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "publishedAt": "2026-08-19T02:00:43.000Z"
-    },
-    {
-      "id": "QkJDIFdvcmxkfFNhY2tlZCBVa3JhaW5pYW4gZGVmZW5jZSBtaW5pc3RlciBjYWxscyBmb3IgcHJlc2lkZW50aWFsIGVsZWN0aW9ufGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NkZXc4bjllcmx3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-19T01:31:15.000Z"
     },
     {
       "id": "QWwgSmF6ZWVyYXxIb3cgRWJvbGEgYmVjYW1lIHRoZSBkZWFkbGllc3Qgb3V0YnJlYWsgaW4gRFIgQ29uZ2_igJlzIGhpc3Rvcnl8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8xOS9ob3ctZWJvbGEtYmVjYW1lLXRoZS1kZWFkbGllc3Qtb3V0YnJlYWstaW4tZHItY29uZ29zLWhpc3Rvcnk_dHJhZmZpY19zb3VyY2U9cnNz",
@@ -255,15 +264,6 @@
       "publishedAt": "2026-08-18T22:11:07.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxCb2xpdmlhIGFycmVzdHMgcG9saXRpY2FsIGFkdmlzZXIgdG8gTGF0aW4gQW1lcmljYW4gcmlnaHQtd2luZ2Vyc3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzE4L2JvbGl2aWEtYXJyZXN0cy1wb2xpdGljYWwtYWR2aXNlci10by1sYXRpbi1hbWVyaWNhbi1yaWdodC13aW5nZXJzP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Bolivia arrests political adviser to Latin American right-wingers",
-      "summary": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-18T21:50:43.000Z"
-    },
-    {
       "id": "QkJDIFNwb3J0fEFsIEhpbGFsIHRhcmdldCBFbmdsYW5kJ3MgS2FuZSAtIFdlZG5lc2RheSdzIGdvc3NpcHxodHRwczovL3d3dy5iYmMuY28udWsvc3BvcnQvZm9vdGJhbGwvYXJ0aWNsZXMvYzcwZ2RkNjFrazRvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
       "title": "Al Hilal target England's Kane - Wednesday's gossip",
       "summary": "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of collapsing.",
@@ -327,10 +327,10 @@
       "publishedAt": "2026-08-18T20:03:56.000Z"
     },
     {
-      "id": "QkJDIFRlY2hub2xvZ3l8VGVjaCBMaWZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zb3VuZHMvcGxheS9saXZlOmJiY193b3JsZF9zZXJ2aWNlX3NvdXRoX2FzaWE_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "id": "QkJDIFRlY2hub2xvZ3l8VGVjaCBMaWZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zb3VuZHMvcGxheS93M2N0OGp5OT9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Tech Life",
       "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "category": "technology",
       "publishedAt": "2026-08-18T20:00:00.000Z"
