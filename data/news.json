@@ -1,7 +1,97 @@
 {
-  "updatedAt": "2026-08-24T12:27:28.688Z",
-  "total": 85,
+  "updatedAt": "2026-08-24T13:42:01.804Z",
+  "total": 86,
   "articles": [
+    {
+      "id": "QkJDIFNwb3J0fEZvcm1lciB3b3JsZCBzbm9va2VyIGNoYW1waW9uIERvdHQgZ3VpbHR5IG9mIGNoaWxkIHNleCBhYnVzZXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jMGxyODByazBkbm8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Former world snooker champion Dott guilty of child sex abuse",
+      "summary": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
+      "url": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "sports",
+      "publishedAt": "2026-08-24T13:39:00.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfElyYW4gZmFjZXMgJ2dyZWF0ZXN0IGZpbmFuY2lhbCBvZmZlbnNpdmUgZXZlcicsIHNheXMgVVMgdHJlYXN1cnkgc2VjcmV0YXJ5fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MwcXhldzgxeTgzbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-24T13:35:07.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxSYWluIGFuZCBmbG9vZGluZyBmcm9tIFR5cGhvb24gTmFycmEgaGl0cyBDaGluYSBhbmQgVmlldG5hbXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvOC8yNC9yYWluLWFuZC1mbG9vZGluZy1mcm9tLXR5cGhvb24tbmFycmEtaGl0cy1jaGluYS1hbmQtdmlldG5hbT90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+      "summary": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-24T13:14:48.000Z"
+    },
+    {
+      "id": "QkJDIFdvcmxkfFNvbnlhIE1hc3NleSdzIGtpbGxlciBTZWFuIEdyYXlzb24gZGllcyBpbiBVUyBwcmlzb258aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2dydmoyOHdyeGdvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "publishedAt": "2026-08-24T13:14:10.000Z"
+    },
+    {
+      "id": "QkJDIFRlY2hub2xvZ3l8VHdpdGNoIGFuZCBBbWF6b24gZmFjZSBsZWdhbCBhY3Rpb24gb3ZlciB1c2luZyBsaXZlc3RyZWFtcyB0byB0cmFpbiBBSXxodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy9hcnRpY2xlcy9jNzBsanFrNWtqcW8_YXRfbWVkaXVtPVJTUyZhdF9jYW1wYWlnbj1yc3M",
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+      "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "publishedAt": "2026-08-24T13:09:44.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXzigJhCYXJyZWwgYm9tYiBtdWZ0aeKAmSBzZW50ZW5jZWQgdG8gbGlmZSBpbiBTeXJpYXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvOC8yNC9iYXJyZWwtYm9tYi1tdWZ0aS1zZW50ZW5jZWQtdG8tbGlmZS1pbi1zeXJpYT90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
+      "summary": "‘Barrel bomb mufti’ sentenced to life in Syria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-24T13:02:44.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxTYXVkaSBBcmFiaWHigJlzIE1CUyB2aXNpdHMgTWFjcm9uIGluIEZyYW5jZTogV2hhdCB0byBleHBlY3R8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8yNC9zYXVkaS1hcmFiaWFzLW1icy12aXNpdHMtbWFjcm9uLWluLWZyYW5jZS13aGF0LXRvLWV4cGVjdD90cmFmZmljX3NvdXJjZT1yc3M",
+      "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
+      "summary": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-24T12:59:55.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxGb3VyIGFycmVzdGVkIG92ZXIgZmF0YWwgc2hvb3Rpbmcgb2YgU291dGggQWZyaWNhbiBib3hlciBab2xhbmkgVGV0ZXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3Nwb3J0cy8yMDI2LzgvMjQvZm91ci1hcnJlc3RlZC1vdmVyLWZhdGFsLXNob290aW5nLW9mLXNvdXRoLWFmcmljYW4tYm94ZXItem9sYW5pLXRldGU_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Four arrested over fatal shooting of South African boxer Zolani Tete",
+      "summary": "Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-24T12:48:53.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxTb3V0aCBLb3JlYSBzYXlzIFVTIGNhbmNlbGxlZCB1cGNvbWluZyBqb2ludCBtYXJpbmUgZXhlcmNpc2VzIG92ZXIgSXJhbiB3YXJ8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8yNC9zb3V0aC1rb3JlYS1zYXlzLXVzLWNhbmNlbGxlZC11cGNvbWluZy1qb2ludC1tYXJpbmUtZXhlcmNpc2VzLW92ZXItaXJhbi13YXI_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
+      "summary": "The cancellation follows Trump's surprise order last week to scale back a separate annual joint military drill.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-24T12:28:26.000Z"
+    },
+    {
+      "id": "QkJDIFRlY2hub2xvZ3l8U2hhcmluZyBkYW5nZXJvdXMgZHJpdmluZyB2aWRlb3MgaXMgJ3RydWx5IHJlcHJlaGVuc2libGUnLCBQTSBzYXlzfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NlMzA4bDF3NXE1bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
+      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
+      "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
+      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "publishedAt": "2026-08-24T12:28:16.000Z"
+    },
     {
       "id": "QkJDIFNwb3J0fEthbnRlciBGcmVlZG9tIGVqZWN0ZWQgZnJvbSBXTkJBIGdhbWUgb3ZlciBwbGF5ZXIgcm93fGh0dHBzOi8vd3d3LmJiYy5jby51ay9zcG9ydC9iYXNrZXRiYWxsL2FydGljbGVzL2M4N3ZnMWo5M3Bxbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Kanter Freedom ejected from WNBA game over player row",
@@ -30,6 +120,24 @@
       "publishedAt": "2026-08-24T12:13:58.000Z"
     },
     {
+      "id": "QWwgSmF6ZWVyYXxBY3RpdmlzdHMgb2NjdXB5IFVLIGFpcmNyYWZ0IHBhcnRzIGZhY3Rvcnkgb3ZlciBJc3JhZWwgbGlua3N8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzgvMjQvYWN0aXZpc3RzLW9jY3VweS11ay1haXJjcmFmdC1wYXJ0cy1mYWN0b3J5LW92ZXItaXNyYWVsLWxpbmtzP3RyYWZmaWNfc291cmNlPXJzcw",
+      "title": "Activists occupy UK aircraft parts factory over Israel links",
+      "summary": "Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-24T12:07:44.000Z"
+    },
+    {
+      "id": "QWwgSmF6ZWVyYXxGb3JtZXIgTkJBIHBsYXllciBFbmVzIEthbnRlciBlamVjdGVkIGFmdGVyIGNvbmZyb250YXRpb24gd2l0aCBXTkJB4oCZcyBDbG91ZHxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3Nwb3J0cy8yMDI2LzgvMjQvZm9ybWVyLW5iYS1wbGF5ZXItZW5lcy1rYW50ZXItZWplY3RlZC1hZnRlci1jb25mcm9udGF0aW9uLXdpdGgtd25iYXMtY2xvdWQ_dHJhZmZpY19zb3VyY2U9cnNz",
+      "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
+      "summary": "Kanter was ejected from the Indiana-Chicago WNBA game after he was confronted by Sky guard Natasha Cloud on court.",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "world",
+      "publishedAt": "2026-08-24T12:04:46.000Z"
+    },
+    {
       "id": "QWwgSmF6ZWVyYXxJc3JhZWwgYWNjdXNlZCBvZiB1c2luZyBraXRlcyBhcyBwcmV0ZXh0IHRvIGp1c3RpZnkgZXNjYWxhdGluZyBHYXphIGF0dGFja3N8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9uZXdzLzIwMjYvOC8yNC9pc3JhZWwtYWNjdXNlZC1vZi11c2luZy1raXRlcy1hcy1wcmV0ZXh0LXRvLWp1c3RpZnktZXNjYWxhdGluZy1nYXphLWF0dGFja3M_dHJhZmZpY19zb3VyY2U9cnNz",
       "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
       "summary": "Israel has threatened Palestinian groups against launching 'kites, drones, and balloons' from the war-torn enclave.",
@@ -46,15 +154,6 @@
       "source": "Al Jazeera",
       "category": "world",
       "publishedAt": "2026-08-24T11:54:30.000Z"
-    },
-    {
-      "id": "QkJDIFRlY2hub2xvZ3l8VUsgbWluaXN0ZXIgdXJnZXMgc29jaWFsIG1lZGlhIGZpcm1zIHRvIHJlbW92ZSBkYW5nZXJvdXMgZHJpdmluZyB2aWRlb3N8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY2UzMDhsMXc1cTVvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "UK minister urges social media firms to remove dangerous driving videos",
-      "summary": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
-      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "publishedAt": "2026-08-24T11:46:21.000Z"
     },
     {
       "id": "QWwgSmF6ZWVyYXxQaG90b3M6IFRvd2VyaW5nIGxhbmRmaWxsIGNvbGxhcHNlIGtpbGxzIDMwIGluIEd1aW5lYeKAmXMgY2FwaXRhbCwgQ29uYWtyeXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL2dhbGxlcnkvMjAyNi84LzI0L3Bob3Rvcy10b3dlcmluZy1sYW5kZmlsbC1jb2xsYXBzZS1raWxscy0zMC1pbi1ndWluZWFzLWNhcGl0YWwtY29uYWtyeT90cmFmZmljX3NvdXJjZT1yc3M",
@@ -147,15 +246,6 @@
       "publishedAt": "2026-08-24T10:40:22.000Z"
     },
     {
-      "id": "QkJDIFdvcmxkfElyYW4gZmFjZXMgJ2dyZWF0ZXN0IGZpbmFuY2lhbCBvZmZlbnNpdmUgZXZlcicsIHNheXMgVVMgdHJlYXN1cnkgc2VjcmV0YXJ5fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2MwcXhldzgxeTgzbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-24T10:39:23.000Z"
-    },
-    {
       "id": "QWwgSmF6ZWVyYXxVUyB0aHJlYXRlbnMgdG91Z2hlc3Qgc2FuY3Rpb25zIHlldCBhZ2FpbnN0IElyYW46IFdoYXQgd2Uga25vd3xodHRwczovL3d3dy5hbGphemVlcmEuY29tL25ld3MvMjAyNi84LzI0L3VzLXRocmVhdGVucy10b3VnaGVzdC1zYW5jdGlvbnMteWV0LWFnYWluc3QtaXJhbi13aGF0LXdlLWtub3c_dHJhZmZpY19zb3VyY2U9cnNz",
       "title": "US threatens toughest sanctions yet against Iran: What we know",
       "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
@@ -210,24 +300,6 @@
       "publishedAt": "2026-08-24T09:47:22.000Z"
     },
     {
-      "id": "QWwgSmF6ZWVyYXxEb3plbnMgb2YgY29vcmRpbmF0ZWQgYXJzb24gYXR0YWNrcyBjYXJyaWVkIG91dCBhY3Jvc3MgVGhhaWxhbmR8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS92aWRlby9uZXdzZmVlZC8yMDI2LzgvMjQvZG96ZW5zLW9mLWNvb3JkaW5hdGVkLWFyc29uLWF0dGFja3MtY2FycmllZC1vdXQtYWNyb3NzLXRoYWlsYW5kP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Dozens of coordinated arson attacks carried out across Thailand",
-      "summary": "Dozens of coordinated arson attacks carried out across Thailand",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-24T09:44:57.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxNYWNyb24gYW5kIE1CUyBhdHRlbmQgRXNwb3J0cyBXb3JsZCBDdXAgY2xvc2luZyBjZXJlbW9ueXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3ZpZGVvL25ld3NmZWVkLzIwMjYvOC8yNC9tYWNyb24tYW5kLW1icy1hdHRlbmQtZXNwb3J0cy13b3JsZC1jdXAtY2xvc2luZy1jZXJlbW9ueT90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Macron and MBS attend Esports World Cup closing ceremony",
-      "summary": "Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-24T09:44:41.000Z"
-    },
-    {
       "id": "QkJDIEJ1c2luZXNzfFB1YnMgYW5kIGhvdGVscyBjb3VsZCBzZWUgYnVzaW5lc3MgcmF0ZXMgcmVmb3JtZWQgYWZ0ZXIgcmV2aWV3fGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M4eG54eTg5Z3Y3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
       "title": "Pubs and hotels could see business rates reformed after review",
       "summary": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
@@ -235,51 +307,6 @@
       "source": "BBC Business",
       "category": "business",
       "publishedAt": "2026-08-24T09:41:24.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxHaXZlIEltcmFuIEtoYW4gcHJvcGVyIG1lZGljYWwgY2FyZSwgY3JpY2tldCBsZWdlbmRzIHVyZ2UgUGFraXN0YW5pIGdvduKAmXR8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9zcG9ydHMvMjAyNi84LzI0L2dpdmUtaW1yYW4ta2hhbi1wcm9wZXItbWVkaWNhbC1jYXJlLWNyaWNrZXQtbGVnZW5kcy11cmdlLXBha2lzdGFuaS1nb3Z0P3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-      "summary": "Twenty-one cricket captains request PM Sharif's government to ensure Khan is given timely and independent medical care.",
-      "url": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-24T09:33:07.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxUcmFuc2ZlciB0YXJnZXQgSnVsaWFuIEFsdmFyZXogYm9vZWQgYnkgZmFucyBpbiBBdGxldGljbyBNYWRyaWQgd2lufGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vc3BvcnRzLzIwMjYvOC8yNC90cmFuc2Zlci10YXJnZXQtanVsaWFuLWFsdmFyZXotYm9vZWQtYnktZmFucy1pbi1hdGxldGljby1tYWRyaWQtd2luP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
-      "summary": "Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.",
-      "url": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-24T09:29:26.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxTZXZpbGxlLCBKZWZmZXJzb24tV29vZGVuIHJvYXIgdG8gMTAwbSB3aW5zIGF0IFNpbGVzaWEgRGlhbW9uZCBMZWFndWV8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9zcG9ydHMvMjAyNi84LzI0L3NldmlsbGUtamVmZmVyc29uLXdvb2Rlbi1yb2FyLXRvLTEwMG0td2lucy1hdC1zaWxlc2lhLWRpYW1vbmQtbGVhZ3VlP3RyYWZmaWNfc291cmNlPXJzcw",
-      "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
-      "summary": "Brazil's Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.",
-      "url": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-24T09:11:46.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxVUyB0aHJlYXQgb2Yg4oCYZWNvbm9taWMgRC1EYXnigJkgZm9yIElyYW4gdGVzdHMgVHJ1bXDigJlzIENoaW5hIGRldGVudGV8aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9lY29ub215LzIwMjYvOC8yNC91cy10aHJlYXQtb2YtZWNvbm9taWMtZC1kYXktZm9yLWlyYW4tdGVzdHMtdHJ1bXBzLWNoaW5hLWRldGVudGU_dHJhZmZpY19zb3VyY2U9cnNz",
-      "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
-      "summary": "Exerting maximum economic pressure on Tehran would risk blowback from Beijing.",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-24T09:10:12.000Z"
-    },
-    {
-      "id": "QWwgSmF6ZWVyYXxNZXJjZWRlcyBubyBsb25nZXIgaGF2ZSB0aGUgZmFzdGVzdCBjYXIgaW4gRjEsIHNheXMgbGVhZGVyIEFudG9uZWxsaXxodHRwczovL3d3dy5hbGphemVlcmEuY29tL3Nwb3J0cy8yMDI2LzgvMjQvbWVyY2VkZXMtbm8tbG9uZ2VyLWhhdmUtdGhlLWZhc3Rlc3QtY2FyLWluLWYxLXNheXMtbGVhZGVyLWFudG9uZWxsaT90cmFmZmljX3NvdXJjZT1yc3M",
-      "title": "Mercedes no longer have the fastest car in F1, says leader Antonelli",
-      "summary": "McLaren's reigning champion Lando Norris celebrates his second win in a row from pole position at Zandvoort.",
-      "url": "https://www.aljazeera.com/sports/2026/8/24/mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "world",
-      "publishedAt": "2026-08-24T09:08:25.000Z"
     },
     {
       "id": "QkJDIFdvcmxkfEZvdXIgYXJyZXN0ZWQgb3ZlciBib3hpbmcgY2hhbXBpb24ncyBtdXJkZXIgaW4gU291dGggQWZyaWNhfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2NnN2s5cm1uenA3bz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
@@ -478,15 +505,6 @@
       "source": "BBC World",
       "category": "world",
       "publishedAt": "2026-08-23T19:11:30.000Z"
-    },
-    {
-      "id": "QkJDIFdvcmxkfEZyYW5jZSBsaW5rcyBzaGFycCByaXNlIGluIGRyb3duaW5ncyB0byBoZWF0d2F2ZXN8aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYXJ0aWNsZXMvY3FseGxwNGx4OXlvP2F0X21lZGl1bT1SU1MmYXRfY2FtcGFpZ249cnNz",
-      "title": "France links sharp rise in drownings to heatwaves",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "publishedAt": "2026-08-23T17:39:33.000Z"
     },
     {
       "id": "VGVjaENydW5jaHxUZWNoQ3J1bmNoIE1vYmlsaXR5OiBUaGUgY3VzdG9tIGNoaXAgZHJpdmluZyBXYXltb-KAmXMgcm9ib3RheGkgYW1iaXRpb25zfGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNi8wOC8yMy90ZWNoY3J1bmNoLW1vYmlsaXR5LXRoZS1jdXN0b20tY2hpcC1kcml2aW5nLXdheW1vcy1yb2JvdGF4aS1hbWJpdGlvbnMv",
@@ -748,15 +766,6 @@
       "source": "BBC Technology",
       "category": "technology",
       "publishedAt": "2026-08-18T11:26:26.000Z"
-    },
-    {
-      "id": "QkJDIFRlY2hub2xvZ3l8QUkgdG8gaGVscCBwbGFuZXMgYXZvaWQgY2xpbWF0ZS13YXJtaW5nICdza3kgZ3JhZmZpdGknfGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2FydGljbGVzL2M2MmVtNWxwdm5qbz9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
-      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-      "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-      "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "publishedAt": "2026-08-18T09:26:41.000Z"
     },
     {
       "id": "QkJDIFRlY2hub2xvZ3l8VGVjaCBMaWZlfGh0dHBzOi8vd3d3LmJiYy5jby51ay9zb3VuZHMvcGxheS93M2N0OGp5OD9hdF9tZWRpdW09UlNTJmF0X2NhbXBhaWduPXJzcw",
